@@ -11,7 +11,7 @@ author_profile: false
       <img src="https://raw.githubusercontent.com/CGMlabUWF/cgmlabuwf.github.io/refs/heads/master/files/headshots/turtle.png" width="200"><br><a href="https://jpmorganlab.weebly.com/">Dr. Phillip Schmutz</a><br><a href="https://uwf.edu/hmcse/departments/earth-and-environmental-sciences/">Earth and Environmental Science</a>
     </td>
     <td style="text-align:center; border: none;">
-      <img src="https://raw.githubusercontent.com/CGMlabUWF/cgmlabuwf.github.io/refs/heads/master/files/headshots/turtle.png" width="200"><br><a href="https://sealslab.github.io/">Dr. Samantha Seals<br> <a href="https://uwf.edu/mathstat">Mathematics and Statistics</a>
+      <img src="https://raw.githubusercontent.com/CGMlabUWF/cgmlabuwf.github.io/refs/heads/master/files/headshots/turtle.png" width="200"><br><a href="https://sealslab.github.io/">Dr. Samantha Seals</a><br> <a href="https://uwf.edu/mathstat">Mathematics and Statistics</a>
     </td>
   </tr>
 </table><br>
