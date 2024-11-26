@@ -1,17 +1,14 @@
 ---
 permalink: /
-title: "Computational Geomorphology & Modeling Lab at the University of West Florida"
 author_profile: false
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-The Computational Geomorphology and Modeling Lab focuses on the following:
+The Computational Geomorphology and Modeling Lab focuses on using quantitative methods to answer questions in geomorphology. 
 
-News
-------
-- News 1
+<b>News:</b><br>
 
-- News 2
+- Cheyenne Long presented her Proseminar project, "Modeling Sea Turtle Nesting Patterns: How Many Pseudo-Absence Points Are Necessary?" on November 22, 2024.
 
