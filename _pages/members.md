@@ -14,7 +14,7 @@ author_profile: false
       <img src="https://raw.githubusercontent.com/CGMlabUWF/cgmlabuwf.github.io/refs/heads/master/files/headshots/turtle.png" width="200"><br><a href="https://sealslab.github.io/">Dr. Samantha Seals<br> <a href="https://uwf.edu/mathstat">Mathematics and Statistics</a>
     </td>
   </tr>
-</table>
+</table><br>
 
 <b>Graduate Students:</b><br>
 
@@ -27,7 +27,7 @@ author_profile: false
       <img src="https://raw.githubusercontent.com/sealslab/sealslab.github.io/refs/heads/master/files/headshots/moore_audrey.jpg" width="200"><br>Audrey Moore, MS<br>Data Science
     </td>
   </tr>
-</table>
+</table><br>
 
 
 <b>Undergraduate Students:</b><br>
