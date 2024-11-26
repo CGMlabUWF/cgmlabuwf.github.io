@@ -10,5 +10,8 @@ The Computational Geomorphology and Modeling Lab focuses on using quantitative m
 
 <b>News:</b><br>
 
-- Cheyenne Long presented her Proseminar project, "Modeling Sea Turtle Nesting Patterns: How Many Pseudo-Absence Points Are Necessary?" on November 22, 2024.
+<ul>
+<li> November 22, 2024: Cheyenne Long presented her Proseminar project, "Modeling Sea Turtle Nesting Patterns: How Many Pseudo-Absence Points Are Necessary?"</li>
+</ul>
+
 
