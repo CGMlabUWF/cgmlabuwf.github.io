@@ -1,0 +1,31 @@
+project:
+  type: website
+  
+  
+website:
+  title: "Computational Geomorphology and Modeling Lab"
+  site-url: "https://github.com/CGMlabUWF/cgmlabuwf.github.io"
+  navbar:
+    collapse-below: sm 
+    left:
+      - text: "Home"
+        href: index.qmd
+      - text: "Publications"
+        href: publications.qmd
+      - text: "Research"
+        href: research.qmd
+      - text: "People"
+        href: people.qmd
+      - text: "Project Data"
+        href: data.qmd     
+
+  page-footer:
+    right: "© pschmutz, University of West Florida"
+
+format:
+  html:
+    theme: flatly
+    css: styles.css
+    toc: false
+    mainfont: Arial
+    page-layout: full
