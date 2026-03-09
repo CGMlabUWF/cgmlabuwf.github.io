@@ -10,6 +10,8 @@ website:
     left:
       - text: "Home"
         href: index.qmd
+      - text: "News"
+        href: index.qmd        
       - text: "Publications"
         href: publications.qmd
       - text: "Research"

@@ -3,19 +3,19 @@
 }
 
 .navbar {
-  background-color: #007A33 !important;
+  background-color: #009CDE !important;
 }
 
 h1, h2, h3 {
-  color: #007A33;
+  color: #009CDE;
 }
 
 a {
-  color: #007A33;
+  color: #009CDE ;
 }
 
 a:hover {
-  color: #8DC8E8;
+  color: #007A33;
 }
 
 /* Widen and left-weight the main page area */

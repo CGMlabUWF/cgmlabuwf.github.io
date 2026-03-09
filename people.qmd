@@ -1,48 +1,90 @@
 ---
-title: "People"
+title: "Lab Members"
 ---
 
-## Principal Investigator
+## Principal Investigators
 
 ::: {.columns}
-::: {.column width="12%"}
+::: {.column width="10%"}
 ![](files/PhillipSchmutz.jpg){
   fig-alt="Photo of Phillip Schmutz"
   .profile-circle
 }
 :::
 
-::: {.column width="5%"}
+::: {.column width="2.5%"}
 
 :::
 
-::: {.column width="83%"}
+::: {.column width="35%"}
 
 **Phillip Schmutz, PhD**  
-Assocaite Professor, Department of Earth & Environmental Sciences <Br>
-University of West Florida  
+Assocaite Professor <br>
+Department of Earth & Environmental Sciences <br>
+University of West Florida <br>
 pschmutz[at]uwf.edu
 
 :::
 
 
+::: {.column width="5%"}
+
+:::
+
+::: {.column width="10%"}
+![](files/turtle.png){
+  fig-alt="Photo of Samantha Seals"
+  .profile-circle
+}
+:::
+
+::: {.column width="2.5%"}
+
+:::
+
+::: {.column width="35%"}
+
+**Samantha Seals, PhD**  
+Assocaite Professor <br>
+Department of Mathematics and Statistics <br>
+University of West Florida <br>
+pschmutz[at]uwf.edu
+
+:::
+
+
+
 ## Graduate Students
 
-**Gabby Westerfield**<br>
-Thesis: Wrack as Natural Infrastructure: Elevation Change, Sediment Trapping, and Public Perceptions
+**Gabby Westerfield**: Earth and Environmental Sciences <br>
+Project Title: Wrack as Natural Infrastructure: Elevation Change, Sediment Trapping, and Public Perceptions
 
-**Maggie Darbyshire**<br>
-Thesis: Ecogeomorphic Controls on Coastal Dune Morphology Across Managed and Unmanaged Shorelines
+**Maggie Darbyshire**: Earth and Environmental Sciences <br>
+Project Title: Ecogeomorphic Controls on Coastal Dune Morphology Across Managed and Unmanaged Shorelines
+
+**Audrey Moore**: Mathematics and Statistics <br>
+Project Title: 
+
+**Rachel Hudson**: Mathematics and Statistics <br>
+Project Title: 
+
+**Cheyenne Long**: Mathematics and Statistics <br>
+Project Title: 
 
 
 ## Undergraduate Researchers
 
-**Lucia Dillersberger**<br>
+**Lucia Dillersberger**: Earth and Environmental Sciences <br>
 Honors Thesis: Accuracy of Different GPS Data Collection Methods for Drone-Based Dune Research
 
-**Gabby Beemer**<br>
+**Gabby Beemer**: Earth and Environmental Sciences <br>
 Honors Thesis: From Disturbance to Recovery: Long-Term Vegetation Response to Dune Trampling
 
+**Angelina Scamardo**: Mathematics and Statistics <br>
+Project Title: 
+
+**Dru Adams**: Mathematics and Statistics <br>
+Project Title: 
 
 
 ## Alumni
