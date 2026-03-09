@@ -54,37 +54,37 @@ pschmutz[at]uwf.edu
 
 
 
-## Graduate Students
+## Graduate Research Students
 
 **Gabby Westerfield**: Earth and Environmental Sciences <br>
-Project Title: Wrack as Natural Infrastructure: Elevation Change, Sediment Trapping, and Public Perceptions
+Project: Wrack as Natural Infrastructure: Elevation Change, Sediment Trapping, and Public Perceptions
 
 **Maggie Darbyshire**: Earth and Environmental Sciences <br>
-Project Title: Ecogeomorphic Controls on Coastal Dune Morphology Across Managed and Unmanaged Shorelines
-
-**Audrey Moore**: Mathematics and Statistics <br>
-Project Title: 
+Project: Ecogeomorphic Controls on Coastal Dune Morphology Across Managed and Unmanaged Shorelines
 
 **Rachel Hudson**: Mathematics and Statistics <br>
-Project Title: 
+Project: A Time Series Analysis on Nesting Habits of Loggerhead Sea Turtle
+
+**Audrey Moore**: Mathematics and Statistics <br>
+Project: In Development
 
 **Cheyenne Long**: Mathematics and Statistics <br>
-Project Title: 
+Project: In Development
 
 
-## Undergraduate Researchers
+## Undergraduate Researcher Students
 
 **Lucia Dillersberger**: Earth and Environmental Sciences <br>
-Honors Thesis: Accuracy of Different GPS Data Collection Methods for Drone-Based Dune Research
+Project: Accuracy of RTK vs PPK GPS Data Collection Methods for Drone-Based Dune Research
 
 **Gabby Beemer**: Earth and Environmental Sciences <br>
-Honors Thesis: From Disturbance to Recovery: Long-Term Vegetation Response to Dune Trampling
+Project: From Disturbance to Recovery: Long-Term Vegetation Response to Dune Trampling
 
 **Angelina Scamardo**: Mathematics and Statistics <br>
-Project Title: 
+Project: Machine Learning Approaches to Model Sea Turtle Nesting: A Comparison of Random Forest and Support Vector Machine Models
 
 **Dru Adams**: Mathematics and Statistics <br>
-Project Title: 
+Project: Frequentist vs. Bayesian Models of Sea Turtle Nest Site Selection Across Nesting Seasons 
 
 
 ## Alumni
@@ -103,7 +103,7 @@ Project Title:
 ### Undergraduate Students
 | Name | Year | Thesis | Current Position |
 |----------|----|------------------------------|-----------------|
-| Joe Agin | 2024 | The Spatial Variability of Sea Turtle Nest Sites Related to Beach Geomorphology Characteristics on Pensacola Beach and Gulf Islands National Seashore, FL | Project Scientists @ PPM Consultants, Inc |
+| Joe Agin | 2025 | The Spatial Variability of Sea Turtle Nest Sites Related to Beach Geomorphology Characteristics on Pensacola Beach and Gulf Islands National Seashore, FL | Project Scientists @ PPM Consultants, Inc |
 | Liliana Blouin | 2024 | The Spatial Variability of Sea Turtle Nest Sites Related to Beach Geomorphology Characteristics on Pensacola Beach and Gulf Islands National Seashore, FL | Graduate Students @ Manchester Metropolitan University, UK |
 | Kyle Allen | 2023 | Quantifying Seasonal Change in a Coastal Dune System using a UAV on Pensacola Beach, Florida | Environmental Scientist @ Raba Kistner, Inc. |
 | Lexi Nelson | 2019 | The Utility of Using a Near-Infrared (NIR) Camera to Measure Beach Surface Moisture | Data Scientist @ the Gulf Ecology Division of the EPA |

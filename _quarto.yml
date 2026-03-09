@@ -11,7 +11,7 @@ website:
       - text: "Home"
         href: index.qmd
       - text: "News"
-        href: index.qmd        
+        href: news.qmd        
       - text: "Publications"
         href: publications.qmd
       - text: "Research"

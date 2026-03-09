@@ -1,17 +1,4 @@
 ---
-title: "Publicatins"
+title: "News"
 ---
 
-**Bolded author indicates the lab directors.**  
-<sup>U</sup> Undergraduate student co-author  
-<sup>G</sup> Graduate student co-author
-
-
-### Peer-Reviewed Manuscripts
-
-**Schmutz, P.P.**, & T. Briggs<sup>U</sup>, and **S.R. Seals**. 2025. Lagging behind: Impact of non-native gravel within a coastal dune system. *Aeolian Research*, *72*, 100957. [https://doi.org/10.1016/j.aeolia.2024.100957](https://doi.org/10.1016/j.aeolia.2024.100957)
-
-
-### Manuscripts In Review
-
-Cox, D., **P.P. Schmutz**, and S.R. Seals. In Review (2026). Modeling Sea Turtle Nesting Probability: Evaluating Loggerhead Nest Site Selection Using Presence–Pseudo-Absence Data. *Ecosphere*. 
