@@ -72,7 +72,7 @@ Project: In Development
 Project: In Development
 
 
-## Undergraduate Researcher Students
+## Undergraduate Research Students
 
 **Lucia Dillersberger**: Earth and Environmental Sciences <br>
 Project: Accuracy of RTK vs PPK GPS Data Collection Methods for Drone-Based Dune Research

@@ -14,4 +14,4 @@ title: "Publications"
 
 ### Manuscripts In Review
 
-Cox, D., **P.P. Schmutz**, and S.R. Seals. In Review (2026). Modeling Sea Turtle Nesting Probability: Evaluating Loggerhead Nest Site Selection Using Presence–Pseudo-Absence Data. *Ecosphere*. 
+Cox, D., **P.P. Schmutz**, and **S.R. Seals**. In Review (2026). Modeling Sea Turtle Nesting Probability: Evaluating Loggerhead Nest Site Selection Using Presence–Pseudo-Absence Data. *Ecosphere*. 
