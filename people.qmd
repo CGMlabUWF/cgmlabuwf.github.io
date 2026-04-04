@@ -90,14 +90,15 @@ Project: Frequentist vs. Bayesian Models of Sea Turtle Nest Site Selection Acros
 ## Alumni
 ### Graduate Students
 
-| Name | Year | Thesis | Current Position |
-|----------|----|------------------------------|-----------------|
-| Halie Weatherington | 2026 | Comparative Analysis of Pseudo-Absence Statistical Ratios in Relation to Sea Turtle Nesting Preferences | CEI Inspector @ Metric Engineering |
-| Divina Cox | 2025 | Examine the Influnece of Beach Morphology on Sea Turtle Nesting Behavior in the Years 2010, 2016, and 2020 on Santa Rosa Island and Perdido Key, FL | Ph.D. Student @ UC Santa Barbara |
-| Marley Allen | 2019 | Influence of Sand Fence Configuration on Sand Accumulation and Wind Flow | Ph.D Student @ the University of New Orleans |
+| Name | Year | Program |Thesis/Capstone | Current Position |
+|----------|----|-----|------------------------------|-----------------|
+| Halie Weatherington | 2026 | EES | Comparative Analysis of Pseudo-Absence Statistical Ratios in Relation to Sea Turtle Nesting Preferences | CEI Inspector @ Metric Engineering |
+| Divina Cox | 2024 | EES | Examine the Influnece of Beach Morphology on Sea Turtle Nesting Behavior in the Years 2010, 2016, and 2020 on Santa Rosa Island and Perdido Key, FL | Ph.D. Student @ UC Santa Barbara |
+| Madison Williams | 2022 | EES | The Spatial Variability of Sea Turtle Nest Sites Related to Beach Geomorphology Characteristics on Pensacola Beach and Gulf Islands National Seashore, FL | Restoration Coordinator for the Panhandle Dune Ecosystem Project - FWC |
+| Marley Allen | 2019 | EES | Influence of Sand Fence Configuration on Sand Accumulation and Wind Flow | Ph.D Student @ the University of New Orleans |
 
 ### Undergraduate Students
-| Name | Year | Thesis | Current Position |
-|----------|----|------------------------------|-----------------|
-| Joe Agin | 2025 | The Spatial Variability of Sea Turtle Nest Sites Related to Beach Geomorphology Characteristics on Pensacola Beach and Gulf Islands National Seashore, FL | Project Scientists @ PPM Consultants, Inc |
+| Name | Year | Program |Thesis/Capstone | Current Position |
+|----------|----|-----|------------------------------|-----------------|
+| Joe Agin | 2024 | EES | Evaluating the Influence of Beach Wrack on Near-Surface Aerodynamics and Sediment Transport Processes | Project Scientists @ PPM Consultants, Inc |
 
