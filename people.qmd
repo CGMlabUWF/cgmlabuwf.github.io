@@ -96,9 +96,12 @@ Project: Frequentist vs. Bayesian Models of Sea Turtle Nest Site Selection Acros
 | Divina Cox | 2024 | EES | Examine the Influnece of Beach Morphology on Sea Turtle Nesting Behavior in the Years 2010, 2016, and 2020 on Santa Rosa Island and Perdido Key, FL | Ph.D. Student @ UC Santa Barbara |
 | Madison Williams | 2022 | EES | The Spatial Variability of Sea Turtle Nest Sites Related to Beach Geomorphology Characteristics on Pensacola Beach and Gulf Islands National Seashore, FL | Restoration Coordinator for the Panhandle Dune Ecosystem Project - FWC |
 | Marley Allen | 2019 | EES | Influence of Sand Fence Configuration on Sand Accumulation and Wind Flow | Ph.D Student @ the University of New Orleans |
+| Shijie Geng | ??? | Data Science | ??? | ??? |
 
 ### Undergraduate Students
 | Name | Year | Program |Thesis/Capstone | Current Position |
 |----------|----|-----|------------------------------|-----------------|
 | Joe Agin | 2024 | EES | Evaluating the Influence of Beach Wrack on Near-Surface Aerodynamics and Sediment Transport Processes | Project Scientists @ PPM Consultants, Inc |
+| Hunter Evans | ??? | Math | ??? | ??? |
+| Cheyenne Long | ??? | Math | ??? | ??? |
 
