@@ -1,4 +1,9 @@
 ---
-title: "News"
+title: "Lab News"
 ---
 
+### Research to be Presented at ICAR 2026 in Namibia
+In July 2026, lab co-director Dr. Phillip Schmutz will present a poster at the [International Conference on Aeolian Research (ICAR)](https://www.geog.ox.ac.uk/events/icar2026/index.html) in Swakopmund, Namibia.
+The poster, presented in the Mechanics and Processes of Aeolian Sediment Transport session, examines how beach wrack influences near-surface wind flow and sediment deposition. Using field measurements of wind speed reduction and patterns of sand accumulation, the project investigates the role of wrack as a natural sediment-trapping feature within beach and dune systems.
+This work contributes to a growing body of research exploring the ecogeomorphic interactions between organic material and coastal landforms. The findings have implications for understanding dune development, coastal resilience, and the potential benefits of beach wrack as a form of natural infrastructure.
+The ICAR brings together scientists from around the world to share advances in the study of wind-driven processes, sediment transport, and landscape evolution. We are excited to share our research with the international aeolian science community and to engage with colleagues working on similar coastal and desert systems.
