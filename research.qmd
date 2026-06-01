@@ -2,16 +2,16 @@
 title: "Current Reserach"
 ---
 
-[Sea Turtle Nesting Species Distribution Modeling](turtles.html)
+####[Sea Turtle Nesting Species Distribution Modeling](turtles.html)
 
 
-[Beach Wrack as a Nature-Based Solution to Dune Restoration](wrack.html)
+####[Beach Wrack as a Nature-Based Solution to Dune Restoration](wrack.html)
 
 
-[Ecogeomorphic Controls on Coastal Dune Morphology](eco-geo-dunes.html)
+####[Ecogeomorphic Controls on Coastal Dune Morphology](eco-geo-dunes.html)
 
 
-[Vegetation Recovery in a Trampled Dune Systems](trampling.html)
+####[Vegetation Recovery in a Trampled Dune Systems](trampling.html)
 
 
 

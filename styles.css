@@ -3,15 +3,15 @@
 }
 
 .navbar {
-  background-color: #009CDE !important;
+  background-color: #00205B !important;
 }
 
 h1, h2, h3 {
-  color: #009CDE;
+  color: #00205B;
 }
 
 a {
-  color: #009CDE ;
+  color: #00205B ;
 }
 
 a:hover {
@@ -42,5 +42,5 @@ sup {
   border-radius: 50%;
   object-fit: cover;
   object-position: center 20%;
-  border: 3px solid #009CDE;
+  border: 3px solid #00205B;
 }

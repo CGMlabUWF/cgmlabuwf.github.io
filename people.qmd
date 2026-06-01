@@ -18,8 +18,8 @@ title: "Lab Members"
 
 ::: {.column width="35%"}
 
-**Phillip Schmutz, PhD**  
-Assocaite Professor <br>
+**[Phillip Schmutz](https://phillipschmutz.github.io), PhD**  
+Associate Professor <br>
 Department of Earth & Environmental Sciences <br>
 University of West Florida <br>
 pschmutz[at]uwf.edu
@@ -44,8 +44,8 @@ pschmutz[at]uwf.edu
 
 ::: {.column width="35%"}
 
-**Samantha Seals, PhD**  
-Assocaite Professor <br>
+**[Samantha Seals](https://sealslab.github.io), PhD**  
+Associate Professor <br>
 Department of Mathematics and Statistics <br>
 University of West Florida <br>
 sseals[at]uwf.edu
@@ -101,8 +101,8 @@ Project: From Disturbance to Recovery: Long-Term Vegetation Response to Dune Tra
 |----------|----|-----|------------------------------|-----------------|
 | Angelina Scamardo | 2026 | Math/Stats | Machine Learning Approaches to Model Sea Turtle Nesting: A Comparison of Random Forest and Support Vector Machine Models | Graduate Student in Statistics @ UWF |
 | Dru Adams | 2026 | Math/Stats | Frequentist vs. Bayesian Models of Sea Turtle Nest Site Selection Across Nesting Seasons | ??? |
-| Joe Agin | 2024 | EES | Evaluating the Influence of Beach Wrack on Near-Surface Aerodynamics and Sediment Transport Processes | Project Scientists @ PPM Consultants, Inc |
+| Joe Agin | 2025 | EES | Evaluating the Influence of Beach Wrack on Near-Surface Aerodynamics and Sediment Transport Processes | Project Scientists @ PPM Consultants, Inc |
 | Cheyenne Long | 2025 | Math/Stats | ??? | Graduate Student in Mathematics @ UWF |
-| Hunter Evans | ??? | Math/Stats | ??? | ??? |
+| Hunter Evans | 2023 | Math/Stats | ??? | ??? |
 
 
