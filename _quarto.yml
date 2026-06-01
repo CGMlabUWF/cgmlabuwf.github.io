@@ -18,8 +18,8 @@ website:
         href: research.qmd
       - text: "People"
         href: people.qmd
-      - text: "Project Data"
-        href: data.qmd     
+#      - text: "Project Data"
+#        href: data.qmd     
 
   page-footer:
     right: "© GCM Lab, University of West Florida"

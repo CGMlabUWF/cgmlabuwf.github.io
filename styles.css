@@ -3,19 +3,19 @@
 }
 
 .navbar {
-  background-color: #00205B !important;
+  background-color: #00A346 !important;
 }
 
 h1, h2, h3 {
-  color: #00205B;
+  color: #00A346;
 }
 
 a {
-  color: #00205B ;
+  color: #00A346 ;
 }
 
 a:hover {
-  color: #007A33;
+  color: #00205B;
 }
 
 /* Widen and left-weight the main page area */
@@ -42,5 +42,5 @@ sup {
   border-radius: 50%;
   object-fit: cover;
   object-position: center 20%;
-  border: 3px solid #00205B;
+  border: 3px solid #00A346;
 }
