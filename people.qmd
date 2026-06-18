@@ -91,7 +91,7 @@ Project: From Disturbance to Recovery: Long-Term Vegetation Response to Dune Tra
 |----------|----|-----|------------------------------|-----------------|
 | Halie Weatherington | 2026 | EES | Comparative Analysis of Pseudo-Absence Statistical Ratios in Relation to Sea Turtle Nesting Preferences | CEI Inspector @ Metric Engineering |
 | Divina Cox | 2024 | EES | Examine the Influnece of Beach Morphology on Sea Turtle Nesting Behavior in the Years 2010, 2016, and 2020 on Santa Rosa Island and Perdido Key, FL | Ph.D. Student @ UC Santa Barbara |
-| Shijie Geng | 2024 | Data Science | ??? | ??? |
+| Shijie Geng | 2024 | Data Science |  |  |
 | Madison Williams | 2022 | EES | The Spatial Variability of Sea Turtle Nest Sites Related to Beach Geomorphology Characteristics on Pensacola Beach and Gulf Islands National Seashore, FL | Restoration Coordinator for the Panhandle Dune Ecosystem Project - FWC |
 | Marley Allen | 2019 | EES | Influence of Sand Fence Configuration on Sand Accumulation and Wind Flow | Ph.D Student @ the University of New Orleans |
 
@@ -100,9 +100,9 @@ Project: From Disturbance to Recovery: Long-Term Vegetation Response to Dune Tra
 | Name | Year | Program |Thesis/Capstone | Current Position |
 |----------|----|-----|------------------------------|-----------------|
 | Angelina Scamardo | 2026 | Math/Stats | Machine Learning Approaches to Model Sea Turtle Nesting: A Comparison of Random Forest and Support Vector Machine Models | Graduate Student in Statistics @ UWF |
-| Dru Adams | 2026 | Math/Stats | Frequentist vs. Bayesian Models of Sea Turtle Nest Site Selection Across Nesting Seasons | ??? |
+| Dru Adams | 2026 | Math/Stats | Frequentist vs. Bayesian Models of Sea Turtle Nest Site Selection Across Nesting Seasons |  |
 | Joe Agin | 2025 | EES | Evaluating the Influence of Beach Wrack on Near-Surface Aerodynamics and Sediment Transport Processes | Project Scientists @ PPM Consultants, Inc |
-| Cheyenne Long | 2025 | Math/Stats | ??? | Graduate Student in Mathematics @ UWF |
-| Hunter Evans | 2023 | Math/Stats | ??? | ??? |
+| Cheyenne Long | 2025 | Math/Stats |  | Graduate Student in Mathematics @ UWF |
+| Hunter Evans | 2023 | Math/Stats |  |  |
 
 
