@@ -5,7 +5,7 @@ title: "Wrack as a Roughness Element"
 #### Journal Article
 **Schmutz, P.P.**, **S.R. Seals**, J. Agin, <sup>UG</sup>, and P. Tereszkiewicz. In Review (2026). Wrack as a Roughness Element: Nonlinear Controls on Wind Reduction and Sediment Deposition in a Coastal Dune System. *Aeolian Research*.
 
-  - [Preprint PDF]()
+  - [Preprint PDF](https://doi.org/10.31223/X5KZ1Q)
 
 
 #### Conference Presentations
@@ -15,6 +15,3 @@ title: "Wrack as a Roughness Element"
 #### Data and Code
 - [GitHub Repository](https://github.com/CGMlabUWF/beachwrack-aeolian-research-2026)
 
-
-
-  

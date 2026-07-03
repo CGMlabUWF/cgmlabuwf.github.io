@@ -13,7 +13,3 @@ title: "Current Reserach"
 
 #### [Vegetation Recovery in a Trampled Dune Systems](trampling.html)
 
-
-
-
-
