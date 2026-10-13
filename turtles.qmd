@@ -54,10 +54,4 @@ Another major focus quantifies the influence of beach and dune geomorphology on 
 
 :::
 
-::: {.cgm-page-footer}
-
-[Explore research](research.qmd) · [Meet the team](people.qmd) · [View publications](publications.qmd)
-
-:::
-
 :::

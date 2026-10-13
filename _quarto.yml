@@ -10,16 +10,16 @@ website:
     left:
       - text: "Home"
         href: index.qmd
+      - text: "People"
+        href: people.qmd
       - text: "News"
         href: news.qmd        
       - text: "Publications"
         href: publications.qmd
       - text: "Research"
         href: research.qmd
-      - text: "People"
-        href: people.qmd
-#      - text: "Project Data"
-#        href: data.qmd     
+#     - text: "Project Data"
+#       href: data.qmd     
 
   page-footer:
     right: "© CGM Lab, University of West Florida"

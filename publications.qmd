@@ -36,10 +36,4 @@ Cox, D.<sup>G</sup>, **P.P. Schmutz**, and **S.R. Seals**. In Review (2026). Mod
 
 :::
 
-::: {.cgm-page-footer}
-
-[Explore research](research.qmd) · [Meet the team](people.qmd) · [View publications](publications.qmd)
-
-:::
-
 :::

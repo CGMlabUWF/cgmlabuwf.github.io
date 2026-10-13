@@ -26,10 +26,4 @@ This project investigates the recovery of coastal dune vegetation following huma
 
 :::
 
-::: {.cgm-page-footer}
-
-[Explore research](research.qmd) · [Meet the team](people.qmd) · [View publications](publications.qmd)
-
-:::
-
 :::

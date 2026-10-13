@@ -33,10 +33,4 @@ Schmutz, P.P., S.R. Seals, J. Agin, and P. Tereszkiewicz. In Review (2026). Wrac
 
 :::
 
-::: {.cgm-page-footer}
-
-[Explore research](research.qmd) · [Meet the team](people.qmd) · [View publications](publications.qmd)
-
-:::
-
 :::
