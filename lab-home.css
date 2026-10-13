@@ -61,3 +61,22 @@ body:has(.cgm-home) #quarto-content main.content {grid-column:screen-start / scr
 .cgm-card-blue {border-top-color:#005EA6;}
 .cgm-card-sand {border-top-color:#009CDE;}
 .cgm-community {border:1px solid #B2B4B2;border-top:6px solid #00A346;}
+
+/* Markdown layout: Pandoc wraps inline content in paragraphs. */
+.cgm-hero h1 .cgm-discovery {color:#00A346;}
+.cgm-actions>p,.cgm-ribbon>p {display:flex;align-items:center;flex-wrap:wrap;gap:16px;margin:0;}
+.cgm-ribbon>p {gap:18px 40px;justify-content:center;}
+.cgm-visual>p,.cgm-visual figure {margin:0;}
+.cgm-visual img {display:block;width:100%;height:auto;}
+.cgm-visual figcaption {display:none;}
+.cgm-visual-top p,.cgm-visual-caption p {margin:0;}
+.cgm-illustration-note {display:block;font-size:.65rem;opacity:.7;}
+.cgm-card>p:first-child {margin:0 0 35px;}
+.cgm-card>p:first-child .cgm-card-number {margin:0;}
+.cgm-card>p:last-child {margin-top:auto;}
+.cgm-card .cgm-card-link {color:#00205B;font-weight:700;}
+.cgm-methods .callout {border:0;border-bottom:1px solid #B2B4B2;border-radius:0;background:transparent;margin:0;padding:18px 0;}
+.cgm-methods .callout-header {background:transparent!important;color:#00205B;font-weight:700;font-size:1.1rem;}
+.cgm-methods .callout-title {font-size:1.1rem;}
+.cgm-methods .callout-body {font-size:.94rem;line-height:1.7;}
+.cgm-community-note .cgm-curiosity {font-size:2.5rem;font-weight:700;color:#007A33;letter-spacing:-.04em;}
