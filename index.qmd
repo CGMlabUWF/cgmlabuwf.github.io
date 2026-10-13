@@ -10,56 +10,186 @@ format:
     page-layout: full
 ---
 
-```{=html}
-<div class="cgm-home">
-<section class="cgm-hero">
-<div class="cgm-hero-copy">
-<p class="cgm-eyebrow">University of West Florida · CGM Lab</p>
-<h1>Landscapes.<br>Data.<br><span>Discovery.</span></h1>
-<p class="cgm-lead">Geomorphology and data science, brought together to investigate environmental processes and change.</p>
-<p>We connect field observations, spatial data, statistics, and computational models to ask how landscapes work—and what their patterns can tell us.</p>
-<div class="cgm-actions"><a class="cgm-button" href="research.html">Explore our research <span aria-hidden="true">↗</span></a><a class="cgm-button cgm-button-outline" href="people.html">Meet the lab</a></div>
-</div>
-<div class="cgm-visual">
-<div class="cgm-visual-top"><span>OBSERVE / ANALYZE / DISCOVER</span><span aria-hidden="true">● ● ●</span></div>
-<svg viewBox="0 0 600 510" role="img" aria-labelledby="landscape-title landscape-desc">
-<title id="landscape-title">Landscapes become data</title><desc id="landscape-desc">Conceptual terrain contours blend into sample points and a model curve. This illustration is not a research dataset.</desc>
-<defs><pattern id="cgm-grid" width="30" height="30" patternUnits="userSpaceOnUse"><path d="M 30 0 L 0 0 0 30" fill="none" stroke="#8DC8E8" stroke-opacity=".13"/></pattern><linearGradient id="cgm-glow" x2="1" y2="1"><stop stop-color="#00A346"/><stop offset="1" stop-color="#009CDE"/></linearGradient></defs>
-<rect width="600" height="510" fill="url(#cgm-grid)"/>
-<g fill="none" stroke="url(#cgm-glow)" stroke-width="1.8" opacity=".8">
-<path d="M-30 235 Q100 30 275 115 T630 160"/><path d="M-30 260 Q100 55 275 140 T630 185"/><path d="M-30 285 Q100 80 275 165 T630 210"/><path d="M-30 310 Q100 105 275 190 T630 235"/><path d="M-30 335 Q100 130 275 215 T630 260"/><path d="M-30 360 Q100 155 275 240 T630 285"/><path d="M-30 385 Q100 180 275 265 T630 310"/><path d="M-30 410 Q100 205 275 290 T630 335"/>
-</g><g fill="#97D200"><circle cx="95" cy="198" r="5"/><circle cx="180" cy="153" r="5"/><circle cx="267" cy="217" r="5"/><circle cx="355" cy="232" r="5"/><circle cx="449" cy="184" r="5"/><circle cx="522" cy="201" r="5"/></g>
-<path d="M65 430 C130 415 155 365 218 387 S305 448 372 385 S459 321 540 347" fill="none" stroke="#97D200" stroke-width="4"/>
-<g font-family="Arial,sans-serif" font-size="12" fill="#8DC8E8"><text x="35" y="45">01 / LANDSCAPE</text><text x="35" y="480">02 / PATTERN</text><text x="438" y="480">03 / MODEL</text></g>
-</svg>
-<p class="cgm-visual-caption">From observations to understanding <span>Conceptual illustration</span></p>
-</div>
-</section>
-<div class="cgm-ribbon" aria-label="Lab areas"><span>Geomorphology</span><span>Data science</span><span>Statistical modeling</span><span>Spatial analysis</span><span>Field research</span></div>
-<section class="cgm-section">
-<div class="cgm-section-heading"><p class="cgm-eyebrow">Our approach</p><h2>Curiosity in the field.<br>Insight in the data.</h2></div>
-<div class="cgm-intro"><p>The Computational Geomorphology and Modeling Lab brings quantitative and statistical approaches to questions about environmental processes. Coastal and aeolian systems are a major research focus; data science, statistical reasoning, and reproducible computation are central to how we work.</p><p>We combine field measurements and high-resolution topography with inferential statistics, machine learning, and time-series analysis to examine patterns, test hypotheses, and evaluate uncertainty.</p></div>
-</section>
-<section class="cgm-research-section">
-<div class="cgm-section-heading"><p class="cgm-eyebrow">Research in motion</p><h2>Different questions.<br>Connected ways of thinking.</h2><p>Explore the systems we study and the analytical approaches we bring to them.</p></div>
-<div class="cgm-cards">
-<a class="cgm-card cgm-card-green" href="eco-geo-dunes.html"><span class="cgm-card-number">01 / EARTH SYSTEMS</span><h3>Landforms &amp;<br>sediment movement</h3><p>Beach–dune morphodynamics, aeolian transport, and the environmental drivers of geomorphic change.</p><span class="cgm-card-link">Explore geomorphology ↗</span></a>
-<a class="cgm-card cgm-card-blue" href="turtles.html"><span class="cgm-card-number">02 / DATA &amp; MODELS</span><h3>Patterns &amp;<br>predictions</h3><p>Statistical modeling, spatial analysis, machine learning, and time series to understand complex environmental datasets.</p><span class="cgm-card-link">Explore our approaches ↗</span></a>
-<a class="cgm-card cgm-card-sand" href="wrack.html"><span class="cgm-card-number">03 / ENVIRONMENTAL APPLICATIONS</span><h3>Habitats &amp;<br>natural infrastructure</h3><p>Sea turtle nesting habitat and beach wrack research connecting environmental patterns with management questions.</p><span class="cgm-card-link">Explore applications ↗</span></a>
-</div>
-</section>
-<section class="cgm-methods-section">
-<div class="cgm-section-heading"><p class="cgm-eyebrow">Inside the workflow</p><h2>How do we turn a question<br>into understanding?</h2><p>Open a method to explore how it fits into our research.</p></div>
-<div class="cgm-methods">
-<details open><summary><span>01</span> Observe &amp; measure</summary><p>Field measurements, LiDAR, UAS-derived surfaces, and terrestrial laser scanning help us document environmental conditions and landform morphology across space and time.</p></details>
-<details><summary><span>02</span> Organize &amp; explore</summary><p>R and GIS support data management, visualization, spatial analysis, and reproducible workflows that make complex datasets easier to investigate.</p></details>
-<details><summary><span>03</span> Model &amp; evaluate</summary><p>Inferential statistics, machine learning, and time-series analysis help us test hypotheses, explore nonlinear relationships, assess uncertainty, and evaluate model performance.</p></details>
-<details><summary><span>04</span> Interpret &amp; communicate</summary><p>We connect analytical results to environmental processes and communicate what the evidence supports, including its limits and implications for environmental management.</p></details>
-</div>
-</section>
-<section class="cgm-community">
-<div><p class="cgm-eyebrow">Learn. Collaborate. Investigate.</p><h2>Your next question<br>could start here.</h2><p>We welcome motivated undergraduate and graduate students interested in geomorphology, data science, statistical modeling, and field-based environmental research.</p><p>Students build skills in data collection, coding, quantitative reasoning, and interpreting environmental datasets.</p><div class="cgm-actions"><a class="cgm-button" href="people.html">Meet the team ↗</a><a class="cgm-text-link" href="news.html">See what’s happening →</a></div></div>
-<aside class="cgm-community-note"><span aria-hidden="true">{ curiosity }</span><h3>Bring your questions.<br>Build your skills.</h3><p>Field notebooks and code notebooks both belong here.</p><a href="publications.html">Read our research →</a></aside>
-</section>
-</div>
-```
+::: {.cgm-home}
+
+::: {.cgm-hero}
+
+::: {.cgm-hero-copy}
+
+[University of West Florida · CGM Lab]{.cgm-eyebrow}
+
+# Landscapes.\
+Data.\
+[Discovery.]{.cgm-discovery}
+
+::: {.cgm-lead}
+Geomorphology and data science, brought together to investigate environmental processes and change.
+:::
+
+We connect field observations, spatial data, statistics, and computational models to ask how landscapes work—and what their patterns can tell us.
+
+::: {.cgm-actions}
+[Explore our research ↗](research.qmd){.cgm-button}
+[Meet the lab](people.qmd){.cgm-button .cgm-button-outline}
+:::
+
+:::
+
+::: {.cgm-visual}
+
+::: {.cgm-visual-top}
+OBSERVE / ANALYZE / DISCOVER
+:::
+
+![Conceptual terrain contours, sample points, and a model curve—not a research dataset.](files/cgm-landscape.svg){.cgm-hero-image fig-alt="Conceptual landscape and data illustration"}
+
+::: {.cgm-visual-caption}
+From observations to understanding  
+[Conceptual illustration]{.cgm-illustration-note}
+:::
+
+:::
+
+:::
+
+::: {.cgm-ribbon}
+[Geomorphology]{.cgm-ribbon-item}
+[Data science]{.cgm-ribbon-item}
+[Statistical modeling]{.cgm-ribbon-item}
+[Spatial analysis]{.cgm-ribbon-item}
+[Field research]{.cgm-ribbon-item}
+:::
+
+::: {.cgm-section}
+
+::: {.cgm-section-heading}
+[Our approach]{.cgm-eyebrow}
+
+## Curiosity in the field. Insight in the data.
+:::
+
+::: {.cgm-intro}
+The Computational Geomorphology and Modeling Lab brings quantitative and statistical approaches to questions about environmental processes. Coastal and aeolian systems are a major research focus; data science, statistical reasoning, and reproducible computation are central to how we work.
+
+We combine field measurements and high-resolution topography with inferential statistics, machine learning, and time-series analysis to examine patterns, test hypotheses, and evaluate uncertainty.
+:::
+
+:::
+
+::: {.cgm-research-section}
+
+::: {.cgm-section-heading}
+[Research in motion]{.cgm-eyebrow}
+
+## Different questions. Connected ways of thinking.
+
+Explore the systems we study and the analytical approaches we bring to them.
+:::
+
+::: {.cgm-cards}
+
+::: {.cgm-card .cgm-card-green}
+[01 / EARTH SYSTEMS]{.cgm-card-number}
+
+### Landforms & sediment movement
+
+Beach–dune morphodynamics, aeolian transport, and the environmental drivers of geomorphic change.
+
+[Explore geomorphology ↗](eco-geo-dunes.qmd){.cgm-card-link}
+:::
+
+::: {.cgm-card .cgm-card-blue}
+[02 / DATA & MODELS]{.cgm-card-number}
+
+### Patterns & predictions
+
+Statistical modeling, spatial analysis, machine learning, and time series to understand complex environmental datasets.
+
+[Explore our approaches ↗](turtles.qmd){.cgm-card-link}
+:::
+
+::: {.cgm-card .cgm-card-sand}
+[03 / ENVIRONMENTAL APPLICATIONS]{.cgm-card-number}
+
+### Habitats & natural infrastructure
+
+Sea turtle nesting habitat and beach wrack research connecting environmental patterns with management questions.
+
+[Explore applications ↗](wrack.qmd){.cgm-card-link}
+:::
+
+:::
+
+:::
+
+::: {.cgm-methods-section}
+
+::: {.cgm-section-heading}
+[Inside the workflow]{.cgm-eyebrow}
+
+## How do we turn a question into understanding?
+
+Open a method to explore how it fits into our research.
+:::
+
+::: {.cgm-methods}
+
+::: {.callout-note collapse="false" appearance="simple" icon="false"}
+## 01 — Observe & measure
+
+Field measurements, LiDAR, UAS-derived surfaces, and terrestrial laser scanning help us document environmental conditions and landform morphology across space and time.
+:::
+
+::: {.callout-note collapse="true" appearance="simple" icon="false"}
+## 02 — Organize & explore
+
+R and GIS support data management, visualization, spatial analysis, and reproducible workflows that make complex datasets easier to investigate.
+:::
+
+::: {.callout-note collapse="true" appearance="simple" icon="false"}
+## 03 — Model & evaluate
+
+Inferential statistics, machine learning, and time-series analysis help us test hypotheses, explore nonlinear relationships, assess uncertainty, and evaluate model performance.
+:::
+
+::: {.callout-note collapse="true" appearance="simple" icon="false"}
+## 04 — Interpret & communicate
+
+We connect analytical results to environmental processes and communicate what the evidence supports, including its limits and implications for environmental management.
+:::
+
+:::
+
+:::
+
+::: {.cgm-community}
+
+::: {.cgm-community-copy}
+[Learn. Collaborate. Investigate.]{.cgm-eyebrow}
+
+## Your next question could start here.
+
+We welcome motivated undergraduate and graduate students interested in geomorphology, data science, statistical modeling, and field-based environmental research.
+
+Students build skills in data collection, coding, quantitative reasoning, and interpreting environmental datasets.
+
+::: {.cgm-actions}
+[Meet the team ↗](people.qmd){.cgm-button}
+[See what’s happening →](news.qmd){.cgm-text-link}
+:::
+
+:::
+
+::: {.cgm-community-note}
+[curiosity]{.cgm-curiosity}
+
+### Bring your questions. Build your skills.
+
+Field notebooks and code notebooks both belong here.
+
+[Read our research →](publications.qmd)
+:::
+
+:::
+
+:::
