@@ -25,7 +25,7 @@ body:has(.cgm-home) #quarto-content main.content {grid-column:screen-start / scr
 .cgm-visual svg {display:block;width:100%;height:auto;}
 .cgm-visual-caption {padding:0 22px 20px;margin:0;font-size:.8rem;}
 .cgm-visual-caption span {display:block;font-size:.65rem;opacity:.7;}
-.cgm-ribbon {display:flex;justify-content:center;flex-wrap:wrap;gap:18px 40px;padding:23px;background:#00205B;color:#FFFFFF;font-size:.8rem;font-weight:700;letter-spacing:.04em;}
+.cgm-ribbon {display:flex;justify-content:center;flex-wrap:wrap;gap:18px 40px;padding:23px;background:#00205B;color:#FFFFFF; font-size: 1rem; font-weight: 700; letter-spacing: .04em;}
 .cgm-section,.cgm-research-section,.cgm-methods-section,.cgm-community {max-width:1250px;margin:auto;padding:80px 36px;}
 .cgm-section {display:grid;grid-template-columns:1fr 1fr;gap:70px;align-items:start;}
 .cgm-section-heading h2,.cgm-community h2 {font-size:clamp(2rem,3.5vw,3.15rem);line-height:1.1;letter-spacing:-.045em;margin:0 0 24px;font-weight:800;}
