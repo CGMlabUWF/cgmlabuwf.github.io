@@ -4,7 +4,7 @@ project:
   
 website:
   title: "Computational Geomorphology and Modeling Lab"
-  site-url: "https://github.com/CGMlabUWF/cgmlabuwf.github.io"
+  site-url: "https://cgmlabuwf.github.io"
   navbar:
     collapse-below: sm 
     left:
@@ -22,12 +22,14 @@ website:
 #        href: data.qmd     
 
   page-footer:
-    right: "© GCM Lab, University of West Florida"
+    right: "© CGM Lab, University of West Florida"
 
 format:
   html:
     theme: flatly
-    css: styles.css
+    css:
+      - styles.css
+      - lab-pages.css
     toc: false
     mainfont: Arial
     page-layout: full

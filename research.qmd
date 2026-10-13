@@ -1,15 +1,91 @@
 ---
-title: "Current Reserach"
+title: "Research"
 ---
 
-#### [Sea Turtle Nesting Species Distribution Modeling](turtles.html)
+::: {.cgm-page}
 
+::: {.cgm-page-hero}
 
-#### [Beach Wrack as a Nature-Based Solution to Dune Restoration](wrack.html)
+<p class="cgm-label">Questions worth exploring</p>
 
+# Research
 
-#### [Ecogeomorphic Controls on Coastal Dune Morphology](eco-geo-dunes.html)
+<p class="cgm-page-lead">Field observations, environmental datasets, and computational models connect our research.</p>
 
+:::
 
-#### [Vegetation Recovery in a Trampled Dune Systems](trampling.html)
+::: {.cgm-page-body}
 
+::: {.cgm-project-grid}
+
+::: {.cgm-project-card}
+
+<span class="cgm-label">01 / HABITATS & DATA</span>
+
+### [Sea turtle nesting](turtles.qmd)
+
+Species distribution modeling, spatial clustering, time series, and presence–pseudo-absence analysis.
+
+[Explore project →](turtles.qmd)
+
+:::
+
+::: {.cgm-project-card}
+
+<span class="cgm-label">02 / NATURAL INFRASTRUCTURE</span>
+
+### [Beach wrack & restoration](wrack.qmd)
+
+Wrack management, sediment trapping, wind flow, and public perceptions.
+
+[Explore project →](wrack.qmd)
+
+:::
+
+::: {.cgm-project-card}
+
+<span class="cgm-label">03 / ECOGEOMORPHOLOGY</span>
+
+### [Vegetation & dune morphology](eco-geo-dunes.qmd)
+
+Regional field surveys and statistical modeling across managed and unmanaged shorelines.
+
+[Explore project →](eco-geo-dunes.qmd)
+
+:::
+
+::: {.cgm-project-card}
+
+<span class="cgm-label">04 / DISTURBANCE & RECOVERY</span>
+
+### [Vegetation recovery](trampling.qmd)
+
+Monitoring dune vegetation after trampling to understand recovery through time.
+
+[Explore project →](trampling.qmd)
+
+:::
+
+::: {.cgm-project-card}
+
+<span class="cgm-label">05 / PROCESS STUDY & RESOURCES</span>
+
+### [Wrack, airflow & deposition](wrack-airflow.qmd)
+
+Explore the manuscript, preprint, conference poster, and data and code repository.
+
+[Explore project →](wrack-airflow.qmd)
+
+:::
+
+:::
+
+:::
+
+::: {.cgm-page-footer}
+
+[Explore research](research.qmd) · [Meet the team](people.qmd) · [View publications](publications.qmd)
+
+:::
+
+:::

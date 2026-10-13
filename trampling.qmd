@@ -1,9 +1,35 @@
 ---
-title: "Vegetation Recovery in a Trampled Dune Systems"
+title: "Vegetation Recovery in a Trampled Dune System"
 ---
+
+::: {.cgm-page}
+
+::: {.cgm-page-hero}
+
+<p class="cgm-label">Disturbance & recovery</p>
+
+# Vegetation Recovery in a Trampled Dune System
+
+<p class="cgm-page-lead">Tracking coastal dune vegetation recovery following human trampling.</p>
+
+[← All research](research.qmd)
+
+:::
+
+::: {.cgm-page-body}
 
 This project investigates the recovery of coastal dune vegetation following human trampling disturbance. Building on previous work by [Hesp et al., 2009](https://doi.org/10.1016/j.aeolia.2010.03.001), multiple trampling profile treatments were applied across the dune system. The trampled dune profiles will be revisited monthly for one year to quantify vegetation recovery, changes in species composition, and spatial patterns of regrowth. By examining recovery trajectories over time, the study will provide insight into the resilience of dune vegetation and the ecological timescales required for dune systems to recover from recreational disturbance.
 
-  - [Ecological Recovery to Vegetation Trampling in a Coastal Dune System]()
+  - Ecological Recovery to Vegetation Trampling in a Coastal Dune System
 
     - Undergraduate Thesis Research - In Progress (2026/27). *Gabby Beemer*
+
+:::
+
+::: {.cgm-page-footer}
+
+[Explore research](research.qmd) · [Meet the team](people.qmd) · [View publications](publications.qmd)
+
+:::
+
+:::

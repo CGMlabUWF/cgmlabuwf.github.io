@@ -1,0 +1,21 @@
+---
+title: "Publications"
+---
+
+**Bolded author indicates the lab directors.**  
+<sup>UG</sup> Undergraduate student co-author  
+<sup>G</sup> Graduate student co-author
+
+
+### Peer-Reviewed Manuscripts
+
+Williams, M.<sup>G</sup>, and **P.P. Schmutz**. 2026. Space–Time Mapping and Identification of Sea Turtle Nesting Clusters on Pensacola Beach and Gulf Islands National Seashore, Florida. *Southeastern Geographer*, 66 (2), 152-180. [https://doi.org/10.1353/sgo.0.a981639](https://doi.org/10.1353/sgo.0.a981639)
+
+**Schmutz, P.P.**, & T. Briggs<sup>UG</sup>, and **S.R. Seals**. 2025. Lagging behind: Impact of non-native gravel within a coastal dune system. *Aeolian Research*, *72*, 100957. [https://doi.org/10.1016/j.aeolia.2024.100957](https://doi.org/10.1016/j.aeolia.2024.100957)
+
+
+### Manuscripts In Review
+
+Cox, D.<sup>G</sup>, **P.P. Schmutz**, and **S.R. Seals**. In Review (2026). Modeling Loggerhead (Caretta caretta) Nesting Site Selection Probability Using Presence-Pseudo-Absence Data. *Ecosphere*.
+
+**Schmutz, P.P.**, **S.R. Seals**, J. Agin, <sup>UG</sup>, and P. Tereszkiewicz. In Review (2026). Wrack as a Roughness Element: Nonlinear Controls on Wind Reduction and Sediment Deposition in a Coastal Dune System. *Aeolian Research*.

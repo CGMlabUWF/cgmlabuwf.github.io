@@ -2,6 +2,20 @@
 title: "Publications"
 ---
 
+::: {.cgm-page}
+
+::: {.cgm-page-hero}
+
+<p class="cgm-label">Research outputs</p>
+
+# Publications
+
+<p class="cgm-page-lead">Peer-reviewed work and manuscripts in review, with student contributions highlighted.</p>
+
+:::
+
+::: {.cgm-page-body}
+
 **Bolded author indicates the lab directors.**  
 <sup>UG</sup> Undergraduate student co-author  
 <sup>G</sup> Graduate student co-author
@@ -19,3 +33,13 @@ Williams, M.<sup>G</sup>, and **P.P. Schmutz**. 2026. Space–Time Mapping and I
 Cox, D.<sup>G</sup>, **P.P. Schmutz**, and **S.R. Seals**. In Review (2026). Modeling Loggerhead (Caretta caretta) Nesting Site Selection Probability Using Presence-Pseudo-Absence Data. *Ecosphere*.
 
 **Schmutz, P.P.**, **S.R. Seals**, J. Agin, <sup>UG</sup>, and P. Tereszkiewicz. In Review (2026). Wrack as a Roughness Element: Nonlinear Controls on Wind Reduction and Sediment Deposition in a Coastal Dune System. *Aeolian Research*.
+
+:::
+
+::: {.cgm-page-footer}
+
+[Explore research](research.qmd) · [Meet the team](people.qmd) · [View publications](publications.qmd)
+
+:::
+
+:::

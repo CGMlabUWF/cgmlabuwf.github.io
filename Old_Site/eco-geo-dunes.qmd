@@ -1,0 +1,33 @@
+---
+title: "Ecogeomorphic Controls on Coastal Dune Morphology"
+
+---
+
+This project investigates how vegetation composition, spatial structure, and sediment characteristics interact to shape coastal dune morphology and influence restoration effectiveness across managed and unmanaged dune systems. Using integrated field surveys of vegetation, sediment properties, and dune topography collected along \~60 km of coastline, the research examines ecogeomorphic feedbacks at a regional scale.
+<br>
+These datasets are integrated through statistical modeling to identify the relative influence and interaction of vegetation, sediment, and topography in shaping dune development and restoration outcomes. Together, this work provides a process-based framework to inform and evaluate nature-based coastal management strategies under increasing climate and disturbance pressures.
+
+  
+### Projects:
+#### Spatial Patterns of Vegetation and Dune Morphology
+
+A component of this project contextualizes regional scale spatial patterns of vegetation composition and structure in relation to dune morphology. By quantifying how vegetation characteristics vary across different management regimes, this work identifies key plant traits and spatial configurations that promote dune development and resilience.
+
+  - [Vegetation-Sediment Feedbacks and a Regional Framework for Evaluating Dune Morphology in Managed and Unmanaged Coastal Systems]()
+
+    - Thesis Research - In Progress (2026/27). *Maggie Darbyshire*
+
+
+#### Photographic Extraction of Dune Vegetation 
+
+A secondary aspect of this project is the use of computational vision to automatically extract vegetation and sediment characteristics from photographic imagery. By applying machine learning techniques to classify vegetation types and estimate sediment properties from photos, this work provides a scalable approach to monitoring dune systems and evaluating restoration outcomes over large spatial extents.
+
+  - [Automated Extraction of Vegetation and Sediment Characteristics from Photographic Imagery for Coastal Dune Monitoring]()
+
+    - Collaborative Project with *Dr. Hakki Sevil*, Department of Intelligent Systems & Robotics -In Progress (2026/27).
+    
+    
+    
+    
+    
+    

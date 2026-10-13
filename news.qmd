@@ -2,6 +2,20 @@
 title: "Lab News"
 ---
 
+::: {.cgm-page}
+
+::: {.cgm-page-hero}
+
+<p class="cgm-label">From the lab</p>
+
+# Lab News
+
+<p class="cgm-page-lead">Research updates, conference presentations, and publications.</p>
+
+:::
+
+::: {.cgm-page-body}
+
 ### 2026
 
 [Presentation] July 2026 — Lab co-director Dr. Phillip Schmutz presented research on beach wrack, wind reduction, and sediment deposition at the [International Conference on Aeolian Research (ICAR)](https://www.geog.ox.ac.uk/events/icar2026/index.html) in Swakopmund, Namibia.
@@ -16,5 +30,14 @@ title: "Lab News"
 
 [Presentation] December 2025 — Lab co-director Dr. Phillip Schmutz along with students Angelina Scamardo and Dru Adams presented research at the [American Geophysical Union (AGU) Fall Meeting](https://www.agu.org/Fall-Meeting) in New Orleans, Louisiana.
 
-[Publication] March 2026 — Paper accepted in *Aeolian Research*, Lagging behind: Impact of non-native gravel within a coastal dune system. [https://doi.org/10.1016/j.aeolia.2024.100957](https://doi.org/10.1016/j.aeolia.2024.100957)  
+[Publication] March 2026 — Paper accepted in *Aeolian Research*, Lagging behind: Impact of non-native gravel within a coastal dune system. [https://doi.org/10.1016/j.aeolia.2024.100957](https://doi.org/10.1016/j.aeolia.2024.100957)
 
+:::
+
+::: {.cgm-page-footer}
+
+[Explore research](research.qmd) · [Meet the team](people.qmd) · [View publications](publications.qmd)
+
+:::
+
+:::

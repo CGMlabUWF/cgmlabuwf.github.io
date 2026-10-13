@@ -44,3 +44,6 @@ sup {
   object-position: center 20%;
   border: 3px solid #00A346;
 }
+/* UWF palette: readable navigation on Argo Green. */
+.navbar .navbar-brand, .navbar .navbar-title, .navbar .nav-link, .navbar .quarto-navbar-tools a {color:#00205B !important;}
+.navbar .nav-link:hover, .navbar .nav-link.active {color:#00205B !important;text-decoration:underline;text-underline-offset:5px;}

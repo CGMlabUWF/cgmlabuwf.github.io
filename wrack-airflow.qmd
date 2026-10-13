@@ -2,6 +2,22 @@
 title: "Wrack as a Roughness Element"
 ---
 
+::: {.cgm-page}
+
+::: {.cgm-page-hero}
+
+<p class="cgm-label">Wind, wrack & sediment</p>
+
+# Wrack as a Roughness Element
+
+<p class="cgm-page-lead">Article, preprint, conference presentation, and reproducible research resources.</p>
+
+[← All research](research.qmd)
+
+:::
+
+::: {.cgm-page-body}
+
 #### Journal Article
 Schmutz, P.P., S.R. Seals, J. Agin, and P. Tereszkiewicz. In Review (2026). Wrack as a Roughness Element: Nonlinear Controls on Wind Reduction and Sediment Deposition in a Coastal Dune System. *Aeolian Research*.
 
@@ -15,3 +31,12 @@ Schmutz, P.P., S.R. Seals, J. Agin, and P. Tereszkiewicz. In Review (2026). Wrac
 #### Data and Code
 - [GitHub Repository](https://github.com/CGMlabUWF/beachwrack-aeolian-research-2026)
 
+:::
+
+::: {.cgm-page-footer}
+
+[Explore research](research.qmd) · [Meet the team](people.qmd) · [View publications](publications.qmd)
+
+:::
+
+:::
