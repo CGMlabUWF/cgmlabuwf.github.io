@@ -16,11 +16,11 @@ format:
 
 ::: {.cgm-hero-copy}
 
-[University of West Florida · CGM Lab]{.cgm-eyebrow}
+[Computational Geomorphology and Modeling Lab]{.cgm-eyebrow}
 
 # Landscapes.\
-Data.\
-[Discovery.]{.cgm-discovery}
+# Data.\
+# [Discovery.]{.cgm-discovery}
 
 ::: {.cgm-lead}
 Geomorphology and data science, brought together to investigate environmental processes and change.

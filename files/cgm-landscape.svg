@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 510" role="img" aria-labelledby="landscape-title landscape-desc">
+<title id="landscape-title">Landscapes become data</title><desc id="landscape-desc">Conceptual terrain contours blend into sample points and a model curve. This illustration is not a research dataset.</desc>
+<defs><pattern id="cgm-grid" width="30" height="30" patternUnits="userSpaceOnUse"><path d="M 30 0 L 0 0 0 30" fill="none" stroke="#8DC8E8" stroke-opacity=".13"/></pattern><linearGradient id="cgm-glow" x2="1" y2="1"><stop stop-color="#00A346"/><stop offset="1" stop-color="#009CDE"/></linearGradient></defs>
+<rect width="600" height="510" fill="url(#cgm-grid)"/>
+<g fill="none" stroke="url(#cgm-glow)" stroke-width="1.8" opacity=".8">
+<path d="M-30 235 Q100 30 275 115 T630 160"/><path d="M-30 260 Q100 55 275 140 T630 185"/><path d="M-30 285 Q100 80 275 165 T630 210"/><path d="M-30 310 Q100 105 275 190 T630 235"/><path d="M-30 335 Q100 130 275 215 T630 260"/><path d="M-30 360 Q100 155 275 240 T630 285"/><path d="M-30 385 Q100 180 275 265 T630 310"/><path d="M-30 410 Q100 205 275 290 T630 335"/>
+</g><g fill="#97D200"><circle cx="95" cy="198" r="5"/><circle cx="180" cy="153" r="5"/><circle cx="267" cy="217" r="5"/><circle cx="355" cy="232" r="5"/><circle cx="449" cy="184" r="5"/><circle cx="522" cy="201" r="5"/></g>
+<path d="M65 430 C130 415 155 365 218 387 S305 448 372 385 S459 321 540 347" fill="none" stroke="#97D200" stroke-width="4"/>
+<g font-family="Arial,sans-serif" font-size="12" fill="#8DC8E8"><text x="35" y="45">01 / LANDSCAPE</text><text x="35" y="480">02 / PATTERN</text><text x="438" y="480">03 / MODEL</text></g>
+</svg>

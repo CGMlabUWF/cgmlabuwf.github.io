@@ -3,7 +3,7 @@ project:
   
   
 website:
-  title: "Computational Geomorphology and Modeling Lab"
+  title: "CGM Lab"
   site-url: "https://cgmlabuwf.github.io"
   navbar:
     collapse-below: sm 
