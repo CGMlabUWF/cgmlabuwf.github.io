@@ -20,13 +20,13 @@ title: "Research"
 
 ::: {.cgm-project-card}
 
-<span class="cgm-label">01 / HABITATS & DATA</span>
+<span class="cgm-label">01 / SPECIES HABITATS</span>
 
-### [Sea turtle nesting](turtles.qmd)
+### Sea turtle nesting
 
 Species distribution modeling, spatial clustering, time series, and presence–pseudo-absence analysis.
 
-[Explore project →](turtles.qmd)
+[Explore project →](research/turtles.qmd)
 
 :::
 
@@ -34,11 +34,11 @@ Species distribution modeling, spatial clustering, time series, and presence–p
 
 <span class="cgm-label">02 / NATURAL INFRASTRUCTURE</span>
 
-### [Beach wrack & restoration](wrack.qmd)
+### Beach wrack & restoration
 
 Wrack management, sediment trapping, wind flow, and public perceptions.
 
-[Explore project →](wrack.qmd)
+[Explore project →](research/wrack.qmd)
 
 :::
 
@@ -46,11 +46,11 @@ Wrack management, sediment trapping, wind flow, and public perceptions.
 
 <span class="cgm-label">03 / ECOGEOMORPHOLOGY</span>
 
-### [Vegetation & dune morphology](eco-geo-dunes.qmd)
+### Vegetation & dune morphology
 
 Regional field surveys and statistical modeling across managed and unmanaged shorelines.
 
-[Explore project →](eco-geo-dunes.qmd)
+[Explore project →](research/eco-geo-dunes.qmd)
 
 :::
 
@@ -58,23 +58,11 @@ Regional field surveys and statistical modeling across managed and unmanaged sho
 
 <span class="cgm-label">04 / DISTURBANCE & RECOVERY</span>
 
-### [Vegetation recovery](trampling.qmd)
+### Vegetation recovery
 
 Monitoring dune vegetation after trampling to understand recovery through time.
 
-[Explore project →](trampling.qmd)
-
-:::
-
-::: {.cgm-project-card}
-
-<span class="cgm-label">05 / PROCESS STUDY & RESOURCES</span>
-
-### [Wrack, airflow & deposition](wrack-airflow.qmd)
-
-Explore the manuscript, preprint, conference poster, and data and code repository.
-
-[Explore project →](wrack-airflow.qmd)
+[Explore project →](research/trampling.qmd)
 
 :::
 
@@ -82,10 +70,5 @@ Explore the manuscript, preprint, conference poster, and data and code repositor
 
 :::
 
-::: {.cgm-page-footer}
-
-[Explore research](research.qmd) · [Meet the team](people.qmd) · [View publications](publications.qmd)
-
-:::
 
 :::
