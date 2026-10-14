@@ -41,7 +41,7 @@ University of West Florida
 ::: {.cgm-actions}
 
 [Faculty website ↗](https://phillipschmutz.github.io){.cgm-button}
-[Email me](mailto:pschmutz@uwf.edu){.cgm-button .cgm-button-outline}
+[Email](mailto:pschmutz@uwf.edu){.cgm-button .cgm-button-outline}
 
 :::
 
@@ -53,7 +53,7 @@ University of West Florida
 
 ::: {.cgm-director-photo}
 
-![Image for Samantha Seals](files/turtle.png){.cgm-director-image fig-alt="Image for Samantha Seals"}
+![Image for Samantha Seals](files/SamanthaSeals.png){.cgm-director-image fig-alt="Image for Samantha Seals"}
 
 :::
 
@@ -68,7 +68,7 @@ University of West Florida
 ::: {.cgm-actions}
 
 [Faculty website ↗](https://sealslab.github.io){.cgm-button}
-[Email me](mailto:sseals@uwf.edu){.cgm-button .cgm-button-outline}
+[Email](mailto:sseals@uwf.edu){.cgm-button .cgm-button-outline}
 
 :::
 
@@ -96,6 +96,12 @@ University of West Florida
 
 [Wrack as Natural Infrastructure: Elevation Change, Sediment Trapping, and Public Perceptions](wrack.qmd)
 
+::: {.cgm-actions}
+
+[Email](mailto:glw37@students.uwf.edu){.cgm-button .cgm-button-outline}
+
+:::
+
 :::
 
 ::: {.cgm-student-photo}
@@ -115,6 +121,12 @@ University of West Florida
 <span class="cgm-label">Earth and Environmental Sciences</span>
 
 [Ecogeomorphic Controls on Coastal Dune Morphology Across Managed and Unmanaged Shorelines](eco-geo-dunes.qmd)
+
+::: {.cgm-actions}
+
+[Email](mailto:mmd59@students.uwf.edu){.cgm-button .cgm-button-outline}
+
+:::
 
 :::
 
@@ -136,6 +148,12 @@ University of West Florida
 
 [A Time Series Analysis on Nesting Habits of Loggerhead Sea Turtle](turtles.qmd)
 
+::: {.cgm-actions}
+
+[Email](mailto:rak7@students.uwf.edu){.cgm-button .cgm-button-outline}
+
+:::
+
 :::
 
 ::: {.cgm-student-photo}
@@ -156,11 +174,17 @@ University of West Florida
 
 In development
 
+::: {.cgm-actions}
+
+[Email](mailto:alm109@students.uwf.edu){.cgm-button .cgm-button-outline}
+
+:::
+
 :::
 
 ::: {.cgm-student-photo}
 
-![Penguin placeholder image](files/penguin.jpg){.cgm-student-image fig-alt="Penguin placeholder image"}
+![Penguin placeholder image](files/moore_audrey.jpg){.cgm-student-image fig-alt="Portrait of Audrey Moore"}
 
 :::
 
@@ -176,11 +200,17 @@ In development
 
 In development
 
+::: {.cgm-actions}
+
+[Email](mailto:){.cgm-button .cgm-button-outline}
+
+:::
+
 :::
 
 ::: {.cgm-student-photo}
 
-![Penguin placeholder image](files/penguin.jpg){.cgm-student-image fig-alt="Penguin placeholder image"}
+![Penguin placeholder image](files/long_cheyenne.jpeg){.cgm-student-image fig-alt="Portrait of Cheyenne Long"}
 
 :::
 
@@ -195,6 +225,12 @@ In development
 <span class="cgm-label">Mathematics and Statistics</span>
 
 In development
+
+::: {.cgm-actions}
+
+[Email](mailto:ams270@students.uwf.edu){.cgm-button .cgm-button-outline}
+
+:::
 
 :::
 
@@ -226,6 +262,12 @@ In development
 
 Accuracy of RTK vs PPK GPS Data Collection Methods for Drone-Based Dune Research
 
+::: {.cgm-actions}
+
+[Email](mailto:lcd13@students.uwf.edu){.cgm-button .cgm-button-outline}
+
+:::
+
 :::
 
 ::: {.cgm-student-photo}
@@ -245,6 +287,12 @@ Accuracy of RTK vs PPK GPS Data Collection Methods for Drone-Based Dune Research
 <span class="cgm-label">Earth and Environmental Sciences</span>
 
 [From Disturbance to Recovery: Long-Term Vegetation Response to Dune Trampling](trampling.qmd)
+
+::: {.cgm-actions}
+
+[Email](mailto:gb91@students.uwf.edu){.cgm-button .cgm-button-outline}
+
+:::
 
 :::
 
