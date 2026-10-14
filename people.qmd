@@ -22,8 +22,6 @@ title: "Our People"
 
 ::: {.cgm-director-card}
 
-<div class="cgm-avatar" aria-hidden="true">PS</div>
-
 ### Phillip Schmutz, PhD
 
 Associate Professor  
@@ -37,8 +35,6 @@ University of West Florida
 :::
 
 ::: {.cgm-director-card}
-
-<div class="cgm-avatar cgm-avatar-blue" aria-hidden="true">SS</div>
 
 ### Samantha Seals, PhD
 
