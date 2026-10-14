@@ -24,11 +24,13 @@ title: "Our People"
 
 <div class="cgm-avatar" aria-hidden="true">PS</div>
 
-### [Phillip Schmutz, PhD](https://phillipschmutz.github.io)
+### Phillip Schmutz, PhD
 
 Associate Professor  
 Department of Earth & Environmental Sciences  
 University of West Florida
+
+[Faculty website ↗](https://phillipschmutz.github.io){.cgm-button}
 
 [pschmutz@uwf.edu](mailto:pschmutz@uwf.edu)
 
@@ -38,11 +40,13 @@ University of West Florida
 
 <div class="cgm-avatar cgm-avatar-blue" aria-hidden="true">SS</div>
 
-### [Samantha Seals, PhD](https://sealslab.github.io)
+### Samantha Seals, PhD
 
 Associate Professor  
 Department of Mathematics and Statistics  
 University of West Florida
+
+[Faculty website ↗](https://sealslab.github.io){.cgm-button}
 
 [sseals@uwf.edu](mailto:sseals@uwf.edu)
 
