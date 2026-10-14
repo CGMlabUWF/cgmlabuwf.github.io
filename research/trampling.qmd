@@ -14,7 +14,7 @@ title: "Vegetation Recovery in a Trampled Dune System"
 Tracking coastal dune vegetation recovery following human trampling.
 :::
 
-[← All research](research.qmd)
+[← All research](../research.qmd)
 
 :::
 
