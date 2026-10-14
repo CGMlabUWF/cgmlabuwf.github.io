@@ -306,6 +306,52 @@ body:has(.cgm-page) #quarto-content main.content {
   font-size: .8rem;
 }
 
+/* ==========================================================
+   STUDENT PHOTOS — RIGHT SIDE OF EACH CARD
+   Text takes four shares; image takes one (about 80/20).
+   The surrounding student grid still has two cards per row.
+   To enlarge photos, change the ratio from 4fr / 1fr to 3fr / 1fr.
+   ========================================================== */
+
+.cgm-person-card {
+  display: grid;
+  grid-template-columns: minmax(0, 4fr) minmax(0, 1fr);
+  gap: 18px;
+  align-items: start;
+}
+
+.cgm-student-copy,
+.cgm-student-photo {
+  min-width: 0;
+}
+
+.cgm-student-copy h3 {
+  margin-top: 0;
+}
+
+/* Remove Quarto's default paragraph and figure margins around images. */
+.cgm-student-photo p,
+.cgm-student-photo figure,
+.cgm-student-photo .quarto-figure {
+  margin: 0;
+}
+
+/* Portrait crop: change object-position to adjust the visible area.
+   Use aspect-ratio: 1 / 1 for square images. */
+.cgm-student-photo img {
+  display: block;
+  width: 100%;
+  height: auto;
+  aspect-ratio: 3 / 4;
+  object-fit: cover;
+  object-position: center 20%;
+  border-radius: 8px;
+}
+
+.cgm-student-photo figcaption {
+  display: none;
+}
+
 /* Tablet widths: give each director a full row instead of squeezing
    two cards together. Student and project grids keep their own rules. */
 @media (min-width: 701px) and (max-width: 1000px) {
@@ -344,6 +390,13 @@ body:has(.cgm-page) #quarto-content main.content {
     padding-top: 20px;
   }
 
+  /* Student cards keep their image on the right on phones.
+     The outer student grid becomes one card per row. */
+  .cgm-person-card {
+    grid-template-columns: minmax(0, 1fr) 90px;
+    gap: 16px;
+  }
+
   /* Place the portrait above the text on phones. */
   .cgm-director-card {
     grid-template-columns: 1fr;
@@ -364,3 +417,10 @@ body:has(.cgm-page) #quarto-content main.content {
 
 }
 
+/* Very narrow screens: reduce student photo width to leave room for text. */
+@media (max-width: 420px) {
+  .cgm-person-card {
+    grid-template-columns: minmax(0, 1fr) 64px;
+    gap: 12px;
+  }
+}

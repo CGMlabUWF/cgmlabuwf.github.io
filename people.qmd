@@ -53,7 +53,7 @@ University of West Florida
 
 ::: {.cgm-director-photo}
 
-![Image for Samantha Seals](files/SamanthaSeals.png){.cgm-director-image fig-alt="Image for Samantha Seals"}
+![Image for Samantha Seals](files/turtle.png){.cgm-director-image fig-alt="Image for Samantha Seals"}
 
 :::
 
@@ -88,6 +88,8 @@ University of West Florida
 
 ::: {.cgm-person-card}
 
+::: {.cgm-student-copy}
+
 ### Gabby Westerfield
 
 <span class="cgm-label">Earth and Environmental Sciences</span>
@@ -96,7 +98,17 @@ University of West Florida
 
 :::
 
+::: {.cgm-student-photo}
+
+![Penguin placeholder image](files/penguin.jpg){.cgm-student-image fig-alt="Penguin placeholder image"}
+
+:::
+
+:::
+
 ::: {.cgm-person-card}
+
+::: {.cgm-student-copy}
 
 ### Maggie Darbyshire
 
@@ -106,7 +118,17 @@ University of West Florida
 
 :::
 
+::: {.cgm-student-photo}
+
+![Penguin placeholder image](files/penguin.jpg){.cgm-student-image fig-alt="Penguin placeholder image"}
+
+:::
+
+:::
+
 ::: {.cgm-person-card}
+
+::: {.cgm-student-copy}
 
 ### Rachel Hudson
 
@@ -116,7 +138,17 @@ University of West Florida
 
 :::
 
+::: {.cgm-student-photo}
+
+![Penguin placeholder image](files/penguin.jpg){.cgm-student-image fig-alt="Penguin placeholder image"}
+
+:::
+
+:::
+
 ::: {.cgm-person-card}
+
+::: {.cgm-student-copy}
 
 ### Audrey Moore
 
@@ -126,7 +158,17 @@ In development
 
 :::
 
+::: {.cgm-student-photo}
+
+![Penguin placeholder image](files/penguin.jpg){.cgm-student-image fig-alt="Penguin placeholder image"}
+
+:::
+
+:::
+
 ::: {.cgm-person-card}
+
+::: {.cgm-student-copy}
 
 ### Cheyenne Long
 
@@ -136,13 +178,31 @@ In development
 
 :::
 
+::: {.cgm-student-photo}
+
+![Penguin placeholder image](files/penguin.jpg){.cgm-student-image fig-alt="Penguin placeholder image"}
+
+:::
+
+:::
+
 ::: {.cgm-person-card}
+
+::: {.cgm-student-copy}
 
 ### Angelina Scamardo
 
 <span class="cgm-label">Mathematics and Statistics</span>
 
 In development
+
+:::
+
+::: {.cgm-student-photo}
+
+![Portrait of Angelina Scamardo](files/scamardo_angelina.jpg){.cgm-student-image fig-alt="Portrait of Angelina Scamardo"}
+
+:::
 
 :::
 
@@ -158,6 +218,8 @@ In development
 
 ::: {.cgm-person-card}
 
+::: {.cgm-student-copy}
+
 ### Lucia Dillersberger
 
 <span class="cgm-label">Earth and Environmental Sciences</span>
@@ -166,13 +228,31 @@ Accuracy of RTK vs PPK GPS Data Collection Methods for Drone-Based Dune Research
 
 :::
 
+::: {.cgm-student-photo}
+
+![Penguin placeholder image](files/penguin.jpg){.cgm-student-image fig-alt="Penguin placeholder image"}
+
+:::
+
+:::
+
 ::: {.cgm-person-card}
+
+::: {.cgm-student-copy}
 
 ### Gabby Beemer
 
 <span class="cgm-label">Earth and Environmental Sciences</span>
 
 [From Disturbance to Recovery: Long-Term Vegetation Response to Dune Trampling](trampling.qmd)
+
+:::
+
+::: {.cgm-student-photo}
+
+![Penguin placeholder image](files/penguin.jpg){.cgm-student-image fig-alt="Penguin placeholder image"}
+
+:::
 
 :::
 
