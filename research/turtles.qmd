@@ -14,7 +14,7 @@ title: "Sea Turtle Nesting & Species Distribution Modeling"
 Spatial statistics, time series, and geomorphology help us investigate nesting patterns and nest-site selection.
 :::
 
-[← All research](research.qmd)
+[← All research](../research.qmd)
 
 :::
 
@@ -38,7 +38,7 @@ Identify nesting hotspots, spatial clusters, and changes through time on Santa R
 
 Published (2026) · Southeastern Geographer
 
-[View project details →](research/turtle-space-time.qmd)
+[View project details →](turtle-space-time.qmd)
 
 :::
 
@@ -50,7 +50,7 @@ Published (2026) · Southeastern Geographer
 
 Examine interannual variability and longer-term trends in nesting activity.
 
-[View project details →](research/turtle-time-series.qmd)
+[View project details →](turtle-time-series.qmd)
 
 :::
 
@@ -64,7 +64,7 @@ Evaluate how beach and dune morphology relates to loggerhead nest-site selection
 
 Manuscript in review (2026) · Ecosphere
 
-[View project details →](research/turtle-presence-pseudo-absence.qmd)
+[View project details →](turtle-presence-pseudo-absence.qmd)
 
 :::
 
@@ -76,7 +76,7 @@ Manuscript in review (2026) · Ecosphere
 
 Compare presence–pseudo-absence ratios within the lab’s nesting site-selection research.
 
-[View project details →](research/turtle-multi-ratio.qmd)
+[View project details →](turtle-multi-ratio.qmd)
 
 :::
 
@@ -88,7 +88,7 @@ Compare presence–pseudo-absence ratios within the lab’s nesting site-selecti
 
 Investigate nesting probability using multi-ratio presence–pseudo-absence data.
 
-[View project details →](research/turtle-nesting-simulation.qmd)
+[View project details →](turtle-nesting-simulation.qmd)
 
 :::
 

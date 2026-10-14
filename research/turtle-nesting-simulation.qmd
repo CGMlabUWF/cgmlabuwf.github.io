@@ -14,7 +14,7 @@ title: "Simulation of Nesting Probability"
 Investigate nesting probability using multi-ratio presence–pseudo-absence data.
 :::
 
-[← Sea Turtle Nesting & Species Distribution Modeling](research/turtles.qmd)
+[← Sea Turtle Nesting & Species Distribution Modeling](turtles.qmd)
 
 :::
 

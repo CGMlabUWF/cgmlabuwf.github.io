@@ -14,7 +14,7 @@ title: "Wrack Management Treatments"
 Compare how leaving, removing, or redistributing wrack affects sediment retention and dune development.
 :::
 
-[← Beach Wrack & Dune Restoration](research/wrack.qmd)
+[← Beach Wrack & Dune Restoration](wrack.qmd)
 
 :::
 

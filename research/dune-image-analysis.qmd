@@ -14,7 +14,7 @@ title: "Photographic Extraction of Dune Vegetation"
 Use computer vision and machine learning to extract vegetation and sediment characteristics from photographs.
 :::
 
-[← Ecogeomorphic Controls on Coastal Dune Morphology](research/eco-geo-dunes.qmd)
+[← Ecogeomorphic Controls on Coastal Dune Morphology](eco-geo-dunes.qmd)
 
 :::
 

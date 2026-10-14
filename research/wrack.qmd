@@ -14,7 +14,7 @@ title: "Beach Wrack & Dune Restoration"
 Connecting wind flow, sediment retention, management strategies, and public perceptions.
 :::
 
-[← All research](research.qmd)
+[← All research](../research.qmd)
 
 :::
 
@@ -38,7 +38,7 @@ Examine how wrack modifies near-surface airflow and sediment deposition under di
 
 Manuscript in review (2026) · Aeolian Research
 
-[View project details →](research/wrack-wind-flow.qmd)
+[View project details →](wrack-wind-flow.qmd)
 
 :::
 
@@ -52,7 +52,7 @@ Compare how leaving, removing, or redistributing wrack affects sediment retentio
 
 Thesis research · In progress (2026/27) · Gabby Westerfield
 
-[View project details →](research/wrack-management.qmd)
+[View project details →](wrack-management.qmd)
 
 :::
 
@@ -66,7 +66,7 @@ Explore how beach users weigh aesthetics, recreation, and the ecological functio
 
 Thesis research · In progress (2026/27) · Gabby Westerfield
 
-[View project details →](research/wrack-public-perception.qmd)
+[View project details →](wrack-public-perception.qmd)
 
 :::
 

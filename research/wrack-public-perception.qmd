@@ -14,7 +14,7 @@ title: "Public Perception of Beach Wrack"
 Explore how beach users weigh aesthetics, recreation, and the ecological function of wrack.
 :::
 
-[← Beach Wrack & Dune Restoration](research/wrack.qmd)
+[← Beach Wrack & Dune Restoration](wrack.qmd)
 
 :::
 

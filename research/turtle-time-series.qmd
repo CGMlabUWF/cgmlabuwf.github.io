@@ -14,7 +14,7 @@ title: "Time-Series Analysis of Sea Turtle Nesting"
 Examine interannual variability and longer-term trends in nesting activity.
 :::
 
-[← Sea Turtle Nesting & Species Distribution Modeling](research/turtles.qmd)
+[← Sea Turtle Nesting & Species Distribution Modeling](turtles.qmd)
 
 :::
 

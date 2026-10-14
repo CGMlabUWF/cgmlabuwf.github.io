@@ -14,7 +14,7 @@ title: "Multi-Ratio Presence–Pseudo-Absence Analysis"
 Compare presence–pseudo-absence ratios within the lab’s nesting site-selection research.
 :::
 
-[← Sea Turtle Nesting & Species Distribution Modeling](research/turtles.qmd)
+[← Sea Turtle Nesting & Species Distribution Modeling](turtles.qmd)
 
 :::
 

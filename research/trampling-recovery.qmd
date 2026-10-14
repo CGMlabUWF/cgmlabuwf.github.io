@@ -14,7 +14,7 @@ title: "Ecological Recovery to Vegetation Trampling"
 Track vegetation recovery, species composition, and regrowth after trampling disturbance.
 :::
 
-[← Vegetation Recovery in a Trampled Dune System](research/trampling.qmd)
+[← Vegetation Recovery in a Trampled Dune System](trampling.qmd)
 
 :::
 

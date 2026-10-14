@@ -14,7 +14,7 @@ title: "Presence–Pseudo-Absence Modeling"
 Evaluate how beach and dune morphology relates to loggerhead nest-site selection.
 :::
 
-[← Sea Turtle Nesting & Species Distribution Modeling](research/turtles.qmd)
+[← Sea Turtle Nesting & Species Distribution Modeling](turtles.qmd)
 
 :::
 

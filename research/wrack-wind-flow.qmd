@@ -14,7 +14,7 @@ title: "Wrack Wind Flow Dynamics"
 Examine how wrack modifies near-surface airflow and sediment deposition under different wind conditions.
 :::
 
-[← Beach Wrack & Dune Restoration](research/wrack.qmd)
+[← Beach Wrack & Dune Restoration](wrack.qmd)
 
 :::
 

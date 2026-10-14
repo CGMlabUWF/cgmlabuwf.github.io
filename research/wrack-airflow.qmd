@@ -12,7 +12,7 @@ title: "Wrack as a Roughness Element"
 
 <p class="cgm-page-lead">Article, preprint, conference presentation, and reproducible research resources.</p>
 
-[← All research](research.qmd)
+[← All research](../research.qmd)
 
 :::
 

@@ -14,7 +14,7 @@ title: "Space–Time Mapping of Sea Turtle Nesting"
 Identify nesting hotspots, spatial clusters, and changes through time on Santa Rosa Island and Perdido Key.
 :::
 
-[← Sea Turtle Nesting & Species Distribution Modeling](research/turtles.qmd)
+[← Sea Turtle Nesting & Species Distribution Modeling](turtles.qmd)
 
 :::
 

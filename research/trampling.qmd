@@ -36,7 +36,7 @@ Track vegetation recovery, species composition, and regrowth after trampling dis
 
 Undergraduate thesis · In progress (2026/27) · Gabby Beemer
 
-[View project details →](research/trampling-recovery.qmd)
+[View project details →](trampling-recovery.qmd)
 
 :::
 

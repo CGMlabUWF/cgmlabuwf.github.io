@@ -14,7 +14,7 @@ title: "Ecogeomorphic Controls on Coastal Dune Morphology"
 Investigating how vegetation, sediment, and topography shape dune systems and restoration outcomes.
 :::
 
-[← All research](research.qmd)
+[← All research](../research.qmd)
 
 :::
 
@@ -38,7 +38,7 @@ Investigate vegetation–sediment feedbacks and dune morphology across managed a
 
 Thesis research · In progress (2026/27) · Maggie Darbyshire
 
-[View project details →](research/dune-vegetation-morphology.qmd)
+[View project details →](dune-vegetation-morphology.qmd)
 
 :::
 
@@ -52,7 +52,7 @@ Use computer vision and machine learning to extract vegetation and sediment char
 
 Collaborative project · In progress (2026/27) · Dr. Hakki Sevil
 
-[View project details →](research/dune-image-analysis.qmd)
+[View project details →](dune-image-analysis.qmd)
 
 :::
 

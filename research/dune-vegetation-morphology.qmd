@@ -14,7 +14,7 @@ title: "Spatial Patterns of Vegetation and Dune Morphology"
 Investigate vegetation–sediment feedbacks and dune morphology across managed and unmanaged coastal systems.
 :::
 
-[← Ecogeomorphic Controls on Coastal Dune Morphology](research/eco-geo-dunes.qmd)
+[← Ecogeomorphic Controls on Coastal Dune Morphology](eco-geo-dunes.qmd)
 
 :::
 
