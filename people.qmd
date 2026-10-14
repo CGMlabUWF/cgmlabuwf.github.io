@@ -28,9 +28,12 @@ Associate Professor
 Department of Earth & Environmental Sciences  
 University of West Florida
 
-[Faculty website ↗](https://phillipschmutz.github.io){.cgm-button}
+::: {.cgm-actions}
 
-[pschmutz@uwf.edu](mailto:pschmutz@uwf.edu)
+[Faculty website ↗](https://phillipschmutz.github.io){.cgm-button}
+[Email me](mailto:pschmutz@uwf.edu){.cgm-button .cgm-button-outline}
+
+:::
 
 :::
 
@@ -42,9 +45,12 @@ Associate Professor
 Department of Mathematics and Statistics  
 University of West Florida
 
-[Faculty website ↗](https://sealslab.github.io){.cgm-button}
+::: {.cgm-actions}
 
-[sseals@uwf.edu](mailto:sseals@uwf.edu)
+[Faculty website ↗](https://sealslab.github.io){.cgm-button}
+[Email me](mailto:sseals@uwf.edu){.cgm-button .cgm-button-outline}
+
+:::
 
 :::
 
