@@ -41,7 +41,7 @@ We connect field observations, spatial data, statistics, and computational model
 OBSERVE / ANALYZE / DISCOVER
 :::
 
-![Research Image](){.cgm-hero-image fig-alt=""}
+![Research Image](files/wrack-wind-analysis.pdf){.cgm-hero-image fig-alt=""}
 
 ::: {.cgm-visual-caption}
 #From observations to understanding  
