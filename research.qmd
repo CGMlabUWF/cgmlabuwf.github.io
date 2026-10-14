@@ -26,7 +26,7 @@ title: "Research"
 
 Species distribution modeling, spatial clustering, time series, and presence–pseudo-absence analysis.
 
-[Explore project →](research/turtles.qmd)
+[Explore projects →](research/turtles.qmd)
 
 :::
 
@@ -38,7 +38,7 @@ Species distribution modeling, spatial clustering, time series, and presence–p
 
 Wrack management, sediment trapping, wind flow, and public perceptions.
 
-[Explore project →](research/wrack.qmd)
+[Explore projects →](research/wrack.qmd)
 
 :::
 
@@ -50,7 +50,7 @@ Wrack management, sediment trapping, wind flow, and public perceptions.
 
 Regional field surveys and statistical modeling across managed and unmanaged shorelines.
 
-[Explore project →](research/eco-geo-dunes.qmd)
+[Explore projects →](research/eco-geo-dunes.qmd)
 
 :::
 
@@ -62,7 +62,7 @@ Regional field surveys and statistical modeling across managed and unmanaged sho
 
 Monitoring dune vegetation after trampling to understand recovery through time.
 
-[Explore project →](research/trampling.qmd)
+[Explore projects →](research/trampling.qmd)
 
 :::
 

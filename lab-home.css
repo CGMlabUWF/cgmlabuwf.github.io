@@ -336,14 +336,16 @@ body:has(.cgm-home) #quarto-content main.content {
   padding: 80px 36px;
 }
 
-/* Space below the lab introduction: reduce padding-bottom for a smaller gap. */
+/* Gap between the intro and Research in motion:
+   10px below the intro + 10px above research = 20px total.
+   The final intro paragraph has no bottom margin (see rule below). */
 .cgm-section {
   display: grid;
   grid-template-columns: 1fr 1fr;
   gap: 70px;
   align-items: start;
   margin-bottom: 0;
-  padding-bottom: 25px;
+  padding-bottom: 10px;
 }
 
 .cgm-section-heading h2,.cgm-community h2 {
@@ -363,9 +365,16 @@ body:has(.cgm-home) #quarto-content main.content {
   margin-top: 0;
 }
 
-/* Space above Research in motion; combines with the intro bottom padding. */
+/* Markdown paragraphs normally add a bottom margin.
+   Remove it only from the final intro paragraph so the section gap
+   is controlled entirely by the two padding values above/below. */
+.cgm-intro > p:last-child {
+  margin-bottom: 0;
+}
+
+/* 10px above Research in motion; combines with 10px below the intro. */
 .cgm-research-section {
-  padding-top: 15px;
+  padding-top: 10px;
 }
 
 
@@ -590,11 +599,11 @@ body:has(.cgm-home) #quarto-content main.content {
 
   /* Keep the introduction and research close together on phones too. */
   .cgm-section {
-    padding-bottom: 25px;
+    padding-bottom: 10px;
   }
 
   .cgm-research-section {
-    padding-top: 15px;
+    padding-top: 10px;
   }
 
   .cgm-cards {
