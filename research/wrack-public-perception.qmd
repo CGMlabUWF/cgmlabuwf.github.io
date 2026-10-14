@@ -14,7 +14,7 @@ title: "Public Perception of Beach Wrack"
 Explore how beach users weigh aesthetics, recreation, and the ecological function of wrack.
 :::
 
-[← Beach Wrack & Dune Restoration](wrack.qmd)
+[← Beach Wrack & Dune Restoration](research/wrack.qmd)
 
 :::
 
@@ -28,12 +28,6 @@ A third component examines public perception of beach wrack, exploring how beach
 
     - Thesis Research - In Progress (2026/27). *Gabby Westerfield*
 
-
-:::
-
-::: {.cgm-page-footer}
-
-[← Beach Wrack & Dune Restoration](wrack.qmd) · [All research](research.qmd) · [Meet the team](people.qmd)
 
 :::
 

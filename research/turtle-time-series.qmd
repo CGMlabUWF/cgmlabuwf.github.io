@@ -14,7 +14,7 @@ title: "Time-Series Analysis of Sea Turtle Nesting"
 Examine interannual variability and longer-term trends in nesting activity.
 :::
 
-[← Sea Turtle Nesting & Species Distribution Modeling](turtles.qmd)
+[← Sea Turtle Nesting & Species Distribution Modeling](research/turtles.qmd)
 
 :::
 
@@ -23,12 +23,6 @@ Examine interannual variability and longer-term trends in nesting activity.
 These patterns are explored through time-series analyses to assess interannual variability and longer-term trends in nesting activity.
 
 This project is part of the lab’s sea turtle nesting research using long-term nesting activity data from Escambia County, Florida.
-
-:::
-
-::: {.cgm-page-footer}
-
-[← Sea Turtle Nesting & Species Distribution Modeling](turtles.qmd) · [All research](research.qmd) · [Meet the team](people.qmd)
 
 :::
 

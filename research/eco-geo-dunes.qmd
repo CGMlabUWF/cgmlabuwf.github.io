@@ -32,13 +32,13 @@ These datasets are integrated through statistical modeling to identify the relat
 
 [PROJECT 01]{.cgm-label}
 
-### [Spatial Patterns of Vegetation and Dune Morphology](dune-vegetation-morphology.qmd)
+### Spatial Patterns of Vegetation and Dune Morphology
 
 Investigate vegetation–sediment feedbacks and dune morphology across managed and unmanaged coastal systems.
 
 Thesis research · In progress (2026/27) · Maggie Darbyshire
 
-[View project details →](dune-vegetation-morphology.qmd)
+[View project details →](research/dune-vegetation-morphology.qmd)
 
 :::
 
@@ -46,23 +46,17 @@ Thesis research · In progress (2026/27) · Maggie Darbyshire
 
 [PROJECT 02]{.cgm-label}
 
-### [Photographic Extraction of Dune Vegetation](dune-image-analysis.qmd)
+### Photographic Extraction of Dune Vegetation
 
 Use computer vision and machine learning to extract vegetation and sediment characteristics from photographs.
 
 Collaborative project · In progress (2026/27) · Dr. Hakki Sevil
 
-[View project details →](dune-image-analysis.qmd)
+[View project details →](research/dune-image-analysis.qmd)
 
 :::
 
 :::
-
-:::
-
-::: {.cgm-page-footer}
-
-[Explore research](research.qmd) · [Meet the team](people.qmd) · [View publications](publications.qmd)
 
 :::
 

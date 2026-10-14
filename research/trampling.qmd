@@ -30,23 +30,17 @@ We investigate how coastal dune vegetation recovers from human trampling, with a
 
 [PROJECT 01]{.cgm-label}
 
-### [Ecological Recovery to Vegetation Trampling](trampling-recovery.qmd)
+### Ecological Recovery to Vegetation Trampling
 
 Track vegetation recovery, species composition, and regrowth after trampling disturbance.
 
 Undergraduate thesis · In progress (2026/27) · Gabby Beemer
 
-[View project details →](trampling-recovery.qmd)
+[View project details →](research/trampling-recovery.qmd)
 
 :::
 
 :::
-
-:::
-
-::: {.cgm-page-footer}
-
-[Explore research](research.qmd) · [Meet the team](people.qmd) · [View publications](publications.qmd)
 
 :::
 

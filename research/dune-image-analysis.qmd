@@ -14,7 +14,7 @@ title: "Photographic Extraction of Dune Vegetation"
 Use computer vision and machine learning to extract vegetation and sediment characteristics from photographs.
 :::
 
-[← Ecogeomorphic Controls on Coastal Dune Morphology](eco-geo-dunes.qmd)
+[← Ecogeomorphic Controls on Coastal Dune Morphology](research/eco-geo-dunes.qmd)
 
 :::
 
@@ -26,14 +26,8 @@ A secondary aspect of this project is the use of computational vision to automat
 
   - Automated Extraction of Vegetation and Sediment Characteristics from Photographic Imagery for Coastal Dune Monitoring
 
-    - Collaborative Project with *Dr. Hakki Sevil*, Department of Intelligent Systems & Robotics -In Progress (2026/27).
+    - Collaborative Project with *Dr. Hakki Sevil*, Department of Intelligent Systems & Robotics - In Progress (2026/27).
 
-
-:::
-
-::: {.cgm-page-footer}
-
-[← Ecogeomorphic Controls on Coastal Dune Morphology](eco-geo-dunes.qmd) · [All research](research.qmd) · [Meet the team](people.qmd)
 
 :::
 

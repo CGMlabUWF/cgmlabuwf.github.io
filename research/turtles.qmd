@@ -32,13 +32,13 @@ Together, these projects link spatial statistics, geomorphology, and long-term e
 
 [PROJECT 01]{.cgm-label}
 
-### [Space–Time Mapping of Sea Turtle Nesting](turtle-space-time.qmd)
+### Space–Time Mapping of Sea Turtle Nesting
 
 Identify nesting hotspots, spatial clusters, and changes through time on Santa Rosa Island and Perdido Key.
 
 Published (2026) · Southeastern Geographer
 
-[View project details →](turtle-space-time.qmd)
+[View project details →](research/turtle-space-time.qmd)
 
 :::
 
@@ -46,11 +46,11 @@ Published (2026) · Southeastern Geographer
 
 [PROJECT 02]{.cgm-label}
 
-### [Time-Series Analysis of Sea Turtle Nesting](turtle-time-series.qmd)
+### Time-Series Analysis of Sea Turtle Nesting
 
 Examine interannual variability and longer-term trends in nesting activity.
 
-[View project details →](turtle-time-series.qmd)
+[View project details →](research/turtle-time-series.qmd)
 
 :::
 
@@ -58,13 +58,13 @@ Examine interannual variability and longer-term trends in nesting activity.
 
 [PROJECT 03]{.cgm-label}
 
-### [Presence–Pseudo-Absence Modeling](turtle-presence-pseudo-absence.qmd)
+### Presence–Pseudo-Absence Modeling
 
 Evaluate how beach and dune morphology relates to loggerhead nest-site selection.
 
 Manuscript in review (2026) · Ecosphere
 
-[View project details →](turtle-presence-pseudo-absence.qmd)
+[View project details →](research/turtle-presence-pseudo-absence.qmd)
 
 :::
 
@@ -72,11 +72,11 @@ Manuscript in review (2026) · Ecosphere
 
 [PROJECT 04]{.cgm-label}
 
-### [Multi-Ratio Presence–Pseudo-Absence Analysis](turtle-multi-ratio.qmd)
+### Multi-Ratio Presence–Pseudo-Absence Analysis
 
 Compare presence–pseudo-absence ratios within the lab’s nesting site-selection research.
 
-[View project details →](turtle-multi-ratio.qmd)
+[View project details →](research/turtle-multi-ratio.qmd)
 
 :::
 
@@ -84,21 +84,15 @@ Compare presence–pseudo-absence ratios within the lab’s nesting site-selecti
 
 [PROJECT 05]{.cgm-label}
 
-### [Simulation of Nesting Probability](turtle-nesting-simulation.qmd)
+### Simulation of Nesting Probability
 
 Investigate nesting probability using multi-ratio presence–pseudo-absence data.
 
-[View project details →](turtle-nesting-simulation.qmd)
+[View project details →](research/turtle-nesting-simulation.qmd)
 
 :::
 
 :::
-
-:::
-
-::: {.cgm-page-footer}
-
-[Explore research](research.qmd) · [Meet the team](people.qmd) · [View publications](publications.qmd)
 
 :::
 

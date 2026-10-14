@@ -14,7 +14,7 @@ title: "Ecological Recovery to Vegetation Trampling"
 Track vegetation recovery, species composition, and regrowth after trampling disturbance.
 :::
 
-[← Vegetation Recovery in a Trampled Dune System](trampling.qmd)
+[← Vegetation Recovery in a Trampled Dune System](research/trampling.qmd)
 
 :::
 
@@ -27,12 +27,6 @@ This project investigates the recovery of coastal dune vegetation following huma
   - Ecological Recovery to Vegetation Trampling in a Coastal Dune System
 
     - Undergraduate Thesis Research - In Progress (2026/27). *Gabby Beemer*
-
-:::
-
-::: {.cgm-page-footer}
-
-[← Vegetation Recovery in a Trampled Dune System](trampling.qmd) · [All research](research.qmd) · [Meet the team](people.qmd)
 
 :::
 

@@ -32,13 +32,13 @@ Together, these projects link coastal geomorphology, process-based understanding
 
 [PROJECT 01]{.cgm-label}
 
-### [Wrack Management Treatments](wrack-management.qmd)
+### Wrack Wind Flow Dynamics
 
-Compare how leaving, removing, or redistributing wrack affects sediment retention and dune development.
+Examine how wrack modifies near-surface airflow and sediment deposition under different wind conditions.
 
-Thesis research · In progress (2026/27) · Gabby Westerfield
+Manuscript in review (2026) · Aeolian Research
 
-[View project details →](wrack-management.qmd)
+[View project details →](research/wrack-wind-flow.qmd)
 
 :::
 
@@ -46,13 +46,13 @@ Thesis research · In progress (2026/27) · Gabby Westerfield
 
 [PROJECT 02]{.cgm-label}
 
-### [Wrack Wind Flow Dynamics](wrack-wind-flow.qmd)
+### Wrack Management Treatments
 
-Examine how wrack modifies near-surface airflow and sediment deposition under different wind conditions.
+Compare how leaving, removing, or redistributing wrack affects sediment retention and dune development via UAV change detection.
 
-Manuscript in review (2026) · Aeolian Research
+Thesis research · In progress (2026/27) · Gabby Westerfield
 
-[View project details →](wrack-wind-flow.qmd)
+[View project details →](research/wrack-management.qmd)
 
 :::
 
@@ -60,23 +60,17 @@ Manuscript in review (2026) · Aeolian Research
 
 [PROJECT 03]{.cgm-label}
 
-### [Public Perception of Beach Wrack](wrack-public-perception.qmd)
+### Public Perception of Beach Wrack
 
 Explore how beach users weigh aesthetics, recreation, and the ecological function of wrack.
 
 Thesis research · In progress (2026/27) · Gabby Westerfield
 
-[View project details →](wrack-public-perception.qmd)
+[View project details →](research/wrack-public-perception.qmd)
 
 :::
 
 :::
-
-:::
-
-::: {.cgm-page-footer}
-
-[Explore research](research.qmd) · [Meet the team](people.qmd) · [View publications](publications.qmd)
 
 :::
 
