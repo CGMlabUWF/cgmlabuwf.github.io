@@ -70,9 +70,9 @@ From observations to understanding
 :::
 
 ::: {.cgm-intro}
-The Computational Geomorphology and Modeling Lab brings quantitative and statistical approaches to questions about environmental processes. Coastal and aeolian systems are a major research focus; data science, statistical reasoning, and reproducible computation are central to how we work.
+The Computational Geomorphology and Modeling Lab brings together geomorphology and data science to investigate environmental processes and change, with a major research focus on coastal and aeolian systems. We combine field measurements, LiDAR, UAS-derived surfaces, and terrestrial laser scanning to document environmental conditions and landform morphology across space and time.
 
-We combine field measurements and high-resolution topography with inferential statistics, machine learning, and time-series analysis to examine patterns, test hypotheses, and evaluate uncertainty.
+Using R and GIS, we develop reproducible workflows for data management, visualization, and spatial analysis. Inferential statistics, machine learning, and time-series analysis help us examine patterns, test hypotheses, explore nonlinear relationships, assess uncertainty, and evaluate model performance. We connect these findings to environmental processes and management questions, communicating both what the evidence supports and its limitations.
 :::
 
 :::
@@ -120,45 +120,6 @@ Sea turtle nesting habitat and beach wrack research connecting environmental pat
 
 :::
 
-::: {.cgm-methods-section}
-
-::: {.cgm-section-heading}
-[Inside the workflow]{.cgm-eyebrow}
-
-## How do we turn a question into understanding?
-
-Open a method to explore how it fits into our research.
-:::
-
-::: {.cgm-methods}
-
-::: {.callout-note collapse="false" appearance="simple" icon="false"}
-## 01 — Observe & measure
-
-Field measurements, LiDAR, UAS-derived surfaces, and terrestrial laser scanning help us document environmental conditions and landform morphology across space and time.
-:::
-
-::: {.callout-note collapse="true" appearance="simple" icon="false"}
-## 02 — Organize & explore
-
-R and GIS support data management, visualization, spatial analysis, and reproducible workflows that make complex datasets easier to investigate.
-:::
-
-::: {.callout-note collapse="true" appearance="simple" icon="false"}
-## 03 — Model & evaluate
-
-Inferential statistics, machine learning, and time-series analysis help us test hypotheses, explore nonlinear relationships, assess uncertainty, and evaluate model performance.
-:::
-
-::: {.callout-note collapse="true" appearance="simple" icon="false"}
-## 04 — Interpret & communicate
-
-We connect analytical results to environmental processes and communicate what the evidence supports, including its limits and implications for environmental management.
-:::
-
-:::
-
-:::
 
 ::: {.cgm-community}
 
