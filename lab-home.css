@@ -4,7 +4,7 @@
 
    FONT SIZES:
    Main heading: .cgm-hero h1
-   Lab name:     .cgm-hero-copy .cgm-eyebrow
+   Lab name:     .cgm-lab-name
    Topic ribbon: .cgm-ribbon
    Smaller-screen sizes are in the section near the end.
    ========================================================== */
@@ -86,14 +86,15 @@ body:has(.cgm-home) #quarto-content main.content {
    gap sets the space between them; padding sets space around the section.
    In font-size: clamp(minimum, fluid size, maximum), the middle value
    scales with browser width. All three values influence the result.
-   .cgm-hero-copy .cgm-eyebrow controls the lab name above the heading.
+   .cgm-lab-name spans both columns above the main heading.
    letter-spacing controls how closely the letters sit together.
    ========================================================== */
 
 .cgm-hero {
   display: grid;
   grid-template-columns: 1.05fr 1fr;
-  gap: 60px;
+  column-gap: 60px;
+  row-gap: 32px;
   align-items: center;
   max-width: 1250px;
   margin: auto;
@@ -102,7 +103,7 @@ body:has(.cgm-home) #quarto-content main.content {
 
 /* Main Landscapes / Data / Discovery heading. */
 .cgm-hero h1 {
-  font-size: clamp(4rem, 7.5vw, 5rem);
+  font-size: clamp(2rem, 3.75vw, 3.5rem);
   font-weight: 800;
   line-height: .98;
   letter-spacing: -.065em;
@@ -129,14 +130,19 @@ body:has(.cgm-home) #quarto-content main.content {
   color: #00A346;
 }
 
-/* Lab name above the main heading; does not change other labels. */
-.cgm-hero-copy .cgm-eyebrow {
-  font-size: 1rem;
+/* Full-width lab name: spans the text and illustration columns.
+   Change font-size here to resize the lab name. */
+.cgm-lab-name {
+  grid-column: 1 / -1;
+  font-size: 1.5rem;
+  font-weight: 700;
+  text-transform: uppercase;
+  letter-spacing: .09em;
+  line-height: 1.4;
 }
 
-.cgm-hero-copy > p:has(.cgm-eyebrow) {
-  max-width: none;
-  margin: 0 0 24px;
+.cgm-lab-name p {
+  margin: 0;
 }
 
 .cgm-hero > * {
@@ -636,7 +642,7 @@ body:has(.cgm-home) #quarto-content main.content {
   }
 
   .cgm-hero h1 {
-    font-size: clamp(3rem, 12vw, 5.5rem);
+    font-size: clamp(1.5rem, 6vw, 2.75rem);
   }
 
   .cgm-section,.cgm-research-section,.cgm-methods-section {
@@ -672,8 +678,8 @@ body:has(.cgm-home) #quarto-content main.content {
     padding-inline: 24px;
   }
 
-  .cgm-hero-copy .cgm-eyebrow {
-    font-size: .9rem;
+  .cgm-lab-name {
+    font-size: 1.15rem;
   }
 
   .cgm-ribbon > p {
