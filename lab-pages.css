@@ -236,6 +236,14 @@ body:has(.cgm-page) #quarto-content main.content {
   font-weight: 700;
 }
 
+/* People page groups occupy separate full-width rows.
+   Only the cards inside each group use a two-column grid. */
+.cgm-page-body > .cgm-people-section {
+  display: block;
+  width: 100%;
+  min-width: 0;
+}
+
 /* ==========================================================
    DIRECTOR PHOTOS
    The photo takes one share and the text four shares: about 20/80.

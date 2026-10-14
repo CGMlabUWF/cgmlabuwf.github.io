@@ -16,6 +16,8 @@ title: "Our People"
 
 ::: {.cgm-page-body}
 
+:::: {.cgm-people-section}
+
 ## Lab Co-Directors
 
 ::: {.cgm-people-grid}
@@ -39,7 +41,7 @@ University of West Florida
 ::: {.cgm-actions}
 
 [Faculty website ↗](https://phillipschmutz.github.io){.cgm-button}
-[Email](mailto:pschmutz@uwf.edu){.cgm-button .cgm-button-outline}
+[Email me](mailto:pschmutz@uwf.edu){.cgm-button .cgm-button-outline}
 
 :::
 
@@ -51,7 +53,7 @@ University of West Florida
 
 ::: {.cgm-director-photo}
 
-![Image for Samantha Seals](files/turtle.png){.cgm-director-image fig-alt="Image for Samantha Seals"}
+![Image for Samantha Seals](files/SamanthaSeals.png){.cgm-director-image fig-alt="Image for Samantha Seals"}
 
 :::
 
@@ -66,13 +68,19 @@ University of West Florida
 ::: {.cgm-actions}
 
 [Faculty website ↗](https://sealslab.github.io){.cgm-button}
-[Email](mailto:sseals@uwf.edu){.cgm-button .cgm-button-outline}
+[Email me](mailto:sseals@uwf.edu){.cgm-button .cgm-button-outline}
 
 :::
 
 :::
 
 :::
+
+:::
+
+::::
+
+:::: {.cgm-people-section}
 
 ## Graduate Research Students
 
@@ -140,6 +148,10 @@ In development
 
 :::
 
+::::
+
+:::: {.cgm-people-section}
+
 ## Undergraduate Research Students
 
 ::: {.cgm-student-grid}
@@ -166,7 +178,9 @@ Accuracy of RTK vs PPK GPS Data Collection Methods for Drone-Based Dune Research
 
 :::
 
-::: {.cgm-alumni}
+::::
+
+:::: {.cgm-people-section .cgm-alumni}
 
 ## Alumni
 ### Graduate Students
@@ -189,7 +203,7 @@ Accuracy of RTK vs PPK GPS Data Collection Methods for Drone-Based Dune Research
 | Cheyenne Long | 2025 | Math/Stats |  | Graduate Student in Mathematics @ UWF |
 | Hunter Evans | 2023 | Math/Stats |  |  |
 
-:::
+::::
 
 :::
 
