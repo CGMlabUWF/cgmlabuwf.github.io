@@ -1,0 +1,39 @@
+---
+title: "Wrack Management Treatments"
+---
+
+::: {.cgm-page}
+
+::: {.cgm-page-hero}
+
+[Beach Wrack & Dune Restoration]{.cgm-label}
+
+# Wrack Management Treatments
+
+::: {.cgm-page-lead}
+Compare how leaving, removing, or redistributing wrack affects sediment retention and dune development.
+:::
+
+[← Beach Wrack & Dune Restoration](wrack.qmd)
+
+:::
+
+::: {.cgm-page-body}
+
+**Thesis research · In progress (2026/27) · Gabby Westerfield**
+
+A central component evaluates how different wrack management strategies—leave, remove, or redistribute—affect beach–dune morphology. Using field-based measurements and high-resolution topographic data, this work assesses how management decisions shape sediment retention, dune development, and coastal resilience.   
+
+  - Geomorphic Responses to Beach Wrack Management: Evaluating a Nature-Based Solution for Dune Restoration
+
+    - Thesis Research - In Progress (2026/27). *Gabby Westerfield*
+
+:::
+
+::: {.cgm-page-footer}
+
+[← Beach Wrack & Dune Restoration](wrack.qmd) · [All research](research.qmd) · [Meet the team](people.qmd)
+
+:::
+
+:::

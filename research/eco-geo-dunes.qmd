@@ -6,11 +6,13 @@ title: "Ecogeomorphic Controls on Coastal Dune Morphology"
 
 ::: {.cgm-page-hero}
 
-<p class="cgm-label">Vegetation × sediment × landforms</p>
+[Vegetation × sediment × landforms]{.cgm-label}
 
 # Ecogeomorphic Controls on Coastal Dune Morphology
 
-<p class="cgm-page-lead">Investigating how vegetation, sediment, and topography shape dune systems and restoration outcomes.</p>
+::: {.cgm-page-lead}
+Investigating how vegetation, sediment, and topography shape dune systems and restoration outcomes.
+:::
 
 [← All research](research.qmd)
 
@@ -19,27 +21,42 @@ title: "Ecogeomorphic Controls on Coastal Dune Morphology"
 ::: {.cgm-page-body}
 
 This project investigates how vegetation composition, spatial structure, and sediment characteristics interact to shape coastal dune morphology and influence restoration effectiveness across managed and unmanaged dune systems. Using integrated field surveys of vegetation, sediment properties, and dune topography collected along \~60 km of coastline, the research examines ecogeomorphic feedbacks at a regional scale.
-<br>
+
 These datasets are integrated through statistical modeling to identify the relative influence and interaction of vegetation, sediment, and topography in shaping dune development and restoration outcomes. Together, this work provides a process-based framework to inform and evaluate nature-based coastal management strategies under increasing climate and disturbance pressures.
 
-  
-### Projects:
-#### Spatial Patterns of Vegetation and Dune Morphology
+## Projects
 
-A component of this project contextualizes regional scale spatial patterns of vegetation composition and structure in relation to dune morphology. By quantifying how vegetation characteristics vary across different management regimes, this work identifies key plant traits and spatial configurations that promote dune development and resilience.
+::: {.cgm-project-grid}
 
-  - Vegetation-Sediment Feedbacks and a Regional Framework for Evaluating Dune Morphology in Managed and Unmanaged Coastal Systems
+::: {.cgm-project-card}
 
-    - Thesis Research - In Progress (2026/27). *Maggie Darbyshire*
+[PROJECT 01]{.cgm-label}
 
+### [Spatial Patterns of Vegetation and Dune Morphology](dune-vegetation-morphology.qmd)
 
-#### Photographic Extraction of Dune Vegetation 
+Investigate vegetation–sediment feedbacks and dune morphology across managed and unmanaged coastal systems.
 
-A secondary aspect of this project is the use of computational vision to automatically extract vegetation and sediment characteristics from photographic imagery. By applying machine learning techniques to classify vegetation types and estimate sediment properties from photos, this work provides a scalable approach to monitoring dune systems and evaluating restoration outcomes over large spatial extents.
+Thesis research · In progress (2026/27) · Maggie Darbyshire
 
-  - Automated Extraction of Vegetation and Sediment Characteristics from Photographic Imagery for Coastal Dune Monitoring
+[View project details →](dune-vegetation-morphology.qmd)
 
-    - Collaborative Project with *Dr. Hakki Sevil*, Department of Intelligent Systems & Robotics -In Progress (2026/27).
+:::
+
+::: {.cgm-project-card}
+
+[PROJECT 02]{.cgm-label}
+
+### [Photographic Extraction of Dune Vegetation](dune-image-analysis.qmd)
+
+Use computer vision and machine learning to extract vegetation and sediment characteristics from photographs.
+
+Collaborative project · In progress (2026/27) · Dr. Hakki Sevil
+
+[View project details →](dune-image-analysis.qmd)
+
+:::
+
+:::
 
 :::
 

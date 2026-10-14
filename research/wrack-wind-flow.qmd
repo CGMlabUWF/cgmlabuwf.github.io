@@ -1,0 +1,43 @@
+---
+title: "Wrack Wind Flow Dynamics"
+---
+
+::: {.cgm-page}
+
+::: {.cgm-page-hero}
+
+[Beach Wrack & Dune Restoration]{.cgm-label}
+
+# Wrack Wind Flow Dynamics
+
+::: {.cgm-page-lead}
+Examine how wrack modifies near-surface airflow and sediment deposition under different wind conditions.
+:::
+
+[← Beach Wrack & Dune Restoration](wrack.qmd)
+
+:::
+
+::: {.cgm-page-body}
+
+**Manuscript in review (2026) · Aeolian Research**
+
+A complementary project investigates process-scale dynamics by quantifying how individual wrack elements modify near-surface aerodynamics and sediment deposition under varying wind speeds and directions. This provides mechanistic insight into how wrack contributes to dune building and stabilization.
+
+  - [Wrack as Dynamic Roughness: Controls on Wind Reduction and Sediment Deposition](wrack-airflow.qmd)
+
+    - In Review (2026). *Aeolian Research*
+
+## Abstract
+
+Coastal dunes are shaped by the interaction of wind, sediment, and surface roughness elements. While vegetation has long been recognized as a key driver of aeolian sediment dynamics, beach-cast wrack remains under examined as a geomorphic agent despite its frequent presence following storms. This study investigates how wrack alters near-surface wind flow and influences short-term sediment deposition in a blowout system on Santa Rosa Island, Florida. Field experiments used paired 2D anemometers positioned upwind and downwind of a natural wrack pile and a terrestrial LiDAR scanner to record wind reduction and bed-level changes at 1 Hz during variable wind conditions. Results show that wrack significantly disrupts airflow, producing localized reductions in wind velocity and enhancing sediment deposition. Wind speed exhibited a strong positive relationship with both wind reduction and deposition rates (p < 0.001), indicating that higher wind velocities increase sediment supply and deposition potential. Wind angle showed little effect on flow reduction; however, sediment deposition and erosion were strongly influenced by wind orientation, with specific angles producing distinct depositional patterns. These results indicate that wrack serves as a dynamic roughness element, facilitating sediment retention and potentially aiding in the development of incipient dunes. Rather than removing wrack for aesthetic reasons, strategic placement in alignment with prevailing winds could provide an effective, low-cost, nature-based solution for dune restoration and coastal resilience. This study highlights the coupled influence of wind speed and wind orientation on the geomorphic function of wrack and its potential role in sustainable shoreline management.
+
+:::
+
+::: {.cgm-page-footer}
+
+[← Beach Wrack & Dune Restoration](wrack.qmd) · [All research](research.qmd) · [Meet the team](people.qmd)
+
+:::
+
+:::

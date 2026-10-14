@@ -6,11 +6,13 @@ title: "Vegetation Recovery in a Trampled Dune System"
 
 ::: {.cgm-page-hero}
 
-<p class="cgm-label">Disturbance & recovery</p>
+[Disturbance & recovery]{.cgm-label}
 
 # Vegetation Recovery in a Trampled Dune System
 
-<p class="cgm-page-lead">Tracking coastal dune vegetation recovery following human trampling.</p>
+::: {.cgm-page-lead}
+Tracking coastal dune vegetation recovery following human trampling.
+:::
 
 [← All research](research.qmd)
 
@@ -18,11 +20,33 @@ title: "Vegetation Recovery in a Trampled Dune System"
 
 ::: {.cgm-page-body}
 
-This project investigates the recovery of coastal dune vegetation following human trampling disturbance. Building on previous work by [Hesp et al., 2009](https://doi.org/10.1016/j.aeolia.2010.03.001), multiple trampling profile treatments were applied across the dune system. The trampled dune profiles will be revisited monthly for one year to quantify vegetation recovery, changes in species composition, and spatial patterns of regrowth. By examining recovery trajectories over time, the study will provide insight into the resilience of dune vegetation and the ecological timescales required for dune systems to recover from recreational disturbance.
+We investigate how coastal dune vegetation recovers from human trampling, with attention to recovery trajectories, species composition, and patterns of regrowth.
 
-  - Ecological Recovery to Vegetation Trampling in a Coastal Dune System
+## Projects
 
-    - Undergraduate Thesis Research - In Progress (2026/27). *Gabby Beemer*
+::: {.cgm-project-grid}
+
+::: {.cgm-project-card}
+
+[PROJECT 01]{.cgm-label}
+
+### [Ecological Recovery to Vegetation Trampling](trampling-recovery.qmd)
+
+Track vegetation recovery, species composition, and regrowth after trampling disturbance.
+
+Undergraduate thesis · In progress (2026/27) · Gabby Beemer
+
+[View project details →](trampling-recovery.qmd)
+
+:::
+
+:::
+
+:::
+
+::: {.cgm-page-footer}
+
+[Explore research](research.qmd) · [Meet the team](people.qmd) · [View publications](publications.qmd)
 
 :::
 

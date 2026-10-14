@@ -1,0 +1,39 @@
+---
+title: "Spatial Patterns of Vegetation and Dune Morphology"
+---
+
+::: {.cgm-page}
+
+::: {.cgm-page-hero}
+
+[Ecogeomorphic Controls on Coastal Dune Morphology]{.cgm-label}
+
+# Spatial Patterns of Vegetation and Dune Morphology
+
+::: {.cgm-page-lead}
+Investigate vegetation–sediment feedbacks and dune morphology across managed and unmanaged coastal systems.
+:::
+
+[← Ecogeomorphic Controls on Coastal Dune Morphology](eco-geo-dunes.qmd)
+
+:::
+
+::: {.cgm-page-body}
+
+**Thesis research · In progress (2026/27) · Maggie Darbyshire**
+
+A component of this project contextualizes regional scale spatial patterns of vegetation composition and structure in relation to dune morphology. By quantifying how vegetation characteristics vary across different management regimes, this work identifies key plant traits and spatial configurations that promote dune development and resilience.
+
+  - Vegetation-Sediment Feedbacks and a Regional Framework for Evaluating Dune Morphology in Managed and Unmanaged Coastal Systems
+
+    - Thesis Research - In Progress (2026/27). *Maggie Darbyshire*
+
+:::
+
+::: {.cgm-page-footer}
+
+[← Ecogeomorphic Controls on Coastal Dune Morphology](eco-geo-dunes.qmd) · [All research](research.qmd) · [Meet the team](people.qmd)
+
+:::
+
+:::
