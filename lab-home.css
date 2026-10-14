@@ -331,6 +331,8 @@ body:has(.cgm-home) #quarto-content main.content {
   grid-template-columns: 1fr 1fr;
   gap: 70px;
   align-items: start;
+  margin-bottom: 0;
+  padding-bottom: 25px;
 }
 
 .cgm-section-heading h2,.cgm-community h2 {
