@@ -102,7 +102,7 @@ body:has(.cgm-home) #quarto-content main.content {
 
 /* Main Landscapes / Data / Discovery heading. */
 .cgm-hero h1 {
-  font-size: clamp(4rem, 7.5vw, 7rem);
+  font-size: clamp(4rem, 7.5vw, 5rem);
   font-weight: 800;
   line-height: .98;
   letter-spacing: -.065em;
