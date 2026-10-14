@@ -96,7 +96,6 @@ Explore the systems we study and the analytical approaches we bring to them.
 
 Beach–dune morphodynamics, aeolian transport, and the environmental drivers of geomorphic change.
 
-[Explore geomorphology ↗](eco-geo-dunes.qmd){.cgm-card-link}
 :::
 
 ::: {.cgm-card .cgm-card-blue}
@@ -106,7 +105,6 @@ Beach–dune morphodynamics, aeolian transport, and the environmental drivers of
 
 Statistical modeling, spatial analysis, machine learning, and time series to understand complex environmental datasets.
 
-[Explore our approaches ↗](turtles.qmd){.cgm-card-link}
 :::
 
 ::: {.cgm-card .cgm-card-sand}
@@ -116,7 +114,6 @@ Statistical modeling, spatial analysis, machine learning, and time series to und
 
 Sea turtle nesting habitat and beach wrack research connecting environmental patterns with management questions.
 
-[Explore applications ↗](wrack.qmd){.cgm-card-link}
 :::
 
 :::
@@ -175,20 +172,18 @@ We welcome motivated undergraduate and graduate students interested in geomorpho
 Students build skills in data collection, coding, quantitative reasoning, and interpreting environmental datasets.
 
 ::: {.cgm-actions}
-[Meet the team ↗](people.qmd){.cgm-button}
-[See what’s happening →](news.qmd){.cgm-text-link}
+[Get in touch ↗](people.qmd){.cgm-button}
 :::
 
 :::
 
 ::: {.cgm-community-note}
-[curiosity]{.cgm-curiosity}
+[Curiosity]{.cgm-curiosity}
 
 ### Bring your questions. Build your skills.
 
 Field notebooks and code notebooks both belong here.
 
-[Read our research →](publications.qmd)
 :::
 
 :::
