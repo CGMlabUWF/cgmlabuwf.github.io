@@ -65,7 +65,7 @@ body:has(.cgm-home) #quarto-content main.content {
   text-decoration: none;
 }
 
-.cgm-home a:focus-visible,.cgm-home summary:focus-visible {
+.cgm-home a:focus-visible {
   outline: 3px solid #005EA6;
   outline-offset: 5px;
 }
@@ -326,6 +326,17 @@ body:has(.cgm-home) #quarto-content main.content {
    The heading rule controls the large section titles.
    ========================================================== */
 
+/* Set shared defaults before the individual section rules below.
+   The intro and research sections then customize their adjoining padding. */
+.cgm-section,
+.cgm-research-section,
+.cgm-community {
+  max-width: 1250px;
+  margin: auto;
+  padding: 80px 36px;
+}
+
+/* Space below the lab introduction: reduce padding-bottom for a smaller gap. */
 .cgm-section {
   display: grid;
   grid-template-columns: 1fr 1fr;
@@ -352,6 +363,7 @@ body:has(.cgm-home) #quarto-content main.content {
   margin-top: 0;
 }
 
+/* Space above Research in motion; combines with the intro bottom padding. */
 .cgm-research-section {
   padding-top: 15px;
 }
@@ -451,81 +463,6 @@ body:has(.cgm-home) #quarto-content main.content {
 
 
 /* ==========================================================
-   WORKFLOW PANELS
-   Styles the expandable workflow methods.
-   The Markdown homepage uses Quarto callouts: .callout-header controls
-   the method title and .callout-body controls its description.
-   The details/summary rules support the standalone preview.
-   Edit the method text and collapse settings in index.qmd.
-   ========================================================== */
-
-.cgm-section,.cgm-research-section,.cgm-methods-section,.cgm-community {
-  max-width: 1250px;
-  margin: auto;
-  padding: 80px 36px;
-}
-
-.cgm-methods-section {
-  display: grid;
-  grid-template-columns: 1fr 1fr;
-  gap: 65px;
-  border-top: 1px solid #B2B4B2;
-}
-
-.cgm-methods details {
-  border-bottom: 1px solid #B2B4B2;
-  padding: 20px 0;
-}
-
-.cgm-methods details:first-child {
-  padding-top: 0;
-}
-
-.cgm-methods summary {
-  cursor: pointer;
-  font-size: 1.15rem;
-  font-weight: 700;
-}
-
-.cgm-methods summary span {
-  font-size: .8rem;
-  color: var(--cgm-green);
-  margin-right: 12px;
-}
-
-.cgm-methods details p {
-  padding-left: 34px;
-  font-size: .94rem;
-  margin-bottom: 0;
-}
-
-.cgm-methods .callout {
-  border: 0;
-  border-bottom: 1px solid #B2B4B2;
-  border-radius: 0;
-  background: transparent;
-  margin: 0;
-  padding: 18px 0;
-}
-
-.cgm-methods .callout-header {
-  background: transparent!important;
-  color: #00205B;
-  font-weight: 700;
-  font-size: 1.1rem;
-}
-
-.cgm-methods .callout-title {
-  font-size: 1.1rem;
-}
-
-.cgm-methods .callout-body {
-  font-size: .94rem;
-  line-height: 1.7;
-}
-
-
-/* ==========================================================
    STUDENT AND COMMUNITY SECTION
    Controls the recruitment section near the bottom of the homepage.
    grid-template-columns: 1.3fr 1fr gives the main text more room
@@ -606,7 +543,7 @@ body:has(.cgm-home) #quarto-content main.content {
     padding: 24px;
   }
 
-  .cgm-section,.cgm-methods-section {
+  .cgm-section {
     gap: 35px;
   }
 
@@ -626,7 +563,7 @@ body:has(.cgm-home) #quarto-content main.content {
    ========================================================== */
 
 @media(max-width:760px) {
-  .cgm-hero,.cgm-section,.cgm-methods-section,.cgm-community {
+  .cgm-hero,.cgm-section,.cgm-community {
     grid-template-columns: 1fr;
   }
 
@@ -647,8 +584,17 @@ body:has(.cgm-home) #quarto-content main.content {
     font-size: clamp(1.5rem, 6vw, 2.75rem);
   }
 
-  .cgm-section,.cgm-research-section,.cgm-methods-section {
+  .cgm-section,.cgm-research-section {
     padding: 48px 24px;
+  }
+
+  /* Keep the introduction and research close together on phones too. */
+  .cgm-section {
+    padding-bottom: 25px;
+  }
+
+  .cgm-research-section {
+    padding-top: 15px;
   }
 
   .cgm-cards {
