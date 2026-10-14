@@ -46,7 +46,7 @@ OBSERVE / ANALYZE / DISCOVER
 ![Research Image](files/wrack-wind-analysis.pdf){.cgm-hero-image fig-alt=""}
 
 ::: {.cgm-visual-caption}
-From observations to understanding  
+#From observations to understanding  
 :::
 
 :::
