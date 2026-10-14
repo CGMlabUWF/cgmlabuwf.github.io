@@ -1,40 +1,358 @@
-/* Shared interior-page design, scoped to the CGM pages. */
-body:has(.cgm-page) {background:#fff;}
-body:has(.cgm-page) #title-block-header {display:none;}
-body:has(.cgm-page) #quarto-content main.content {grid-column:screen-start / screen-end;width:100%;max-width:none;margin:0;padding:0;}
-.cgm-page,.cgm-page * {box-sizing:border-box;}
-.cgm-page {color:#00205B;max-width:1200px;margin:auto;padding:0 32px;}
-.cgm-page h1,.cgm-page h2,.cgm-page h3,.cgm-page h4 {color:#00205B;}
-.cgm-page h1 {font-size:clamp(2.3rem,5vw,4rem);line-height:1.08;letter-spacing:-.045em;font-weight:800;max-width:1000px;margin:18px 0 22px;}
-.cgm-page-hero {padding:60px 0 38px;border-bottom:5px solid #00A346;}
-.cgm-label {font-size:.72rem;text-transform:uppercase;font-weight:700;letter-spacing:.09em;color:#007A33;}
-.cgm-page-lead {font-size:1.17rem;line-height:1.6;max-width:850px;}
-.cgm-page-body {padding:36px 0 50px;line-height:1.7;}
-.cgm-page-body>p,.cgm-page-body>ul {max-width:950px;}
-.cgm-page h2 {font-size:1.9rem;margin:40px 0 24px;letter-spacing:-.025em;}
-.cgm-page h3 {font-size:1.5rem;border-bottom:1px solid #B2B4B2;padding-bottom:12px;margin:36px 0 22px;}
-.cgm-page h4 {font-size:1.23rem;margin-top:32px;border-left:4px solid #00A346;padding-left:14px;}
-.cgm-page a {color:#005EA6;text-decoration-thickness:1px;text-underline-offset:3px;overflow-wrap:anywhere;}
-.cgm-page a:hover {color:#00205B;}
-.cgm-page a:focus-visible {outline:3px solid #005EA6;outline-offset:4px;}
-.cgm-page-body li {margin-bottom:14px;}
-.cgm-page-body li li {font-size:.94rem;}
-.cgm-project-grid,.cgm-people-grid,.cgm-student-grid {display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:24px;}
-.cgm-project-card,.cgm-director-card,.cgm-person-card {border:1px solid #B2B4B2;border-top:5px solid #00A346;border-radius:10px;padding:26px;min-width:0;}
-.cgm-project-card:nth-child(even),.cgm-director-card:nth-child(even) {border-top-color:#005EA6;}
-.cgm-project-card {transition:transform .18s,box-shadow .18s;}
-.cgm-project-card:hover {transform:translateY(-4px);box-shadow:0 10px 25px #00205B12;}
-.cgm-project-card h3,.cgm-director-card h3,.cgm-person-card h3 {border:0;padding:0;margin:18px 0 14px;}
-.cgm-project-card h3 a,.cgm-director-card h3 a {text-decoration:none;color:#00205B;}
-.cgm-project-card>p:last-child a {font-weight:700;}
-.cgm-avatar {width:76px;height:76px;display:grid;place-items:center;background:#007A33;color:#fff;border-radius:50%;font-size:1.5rem;font-weight:700;}
-.cgm-avatar-blue {background:#00205B;}
-.cgm-person-card h3 {font-size:1.2rem;margin-top:0;}
-.cgm-alumni {overflow-x:auto;}
-.cgm-alumni table {min-width:760px;width:100%;border-collapse:collapse;font-size:.85rem;}
-.cgm-alumni th {background:#00205B;color:white;text-align:left;}
-.cgm-alumni td,.cgm-alumni th {padding:12px;border-bottom:1px solid #B2B4B2;vertical-align:top;}
-.cgm-page-footer {border-top:1px solid #B2B4B2;padding:25px 0 45px;font-size:.9rem;}
-.cgm-page-footer a {font-weight:700;}
-@media(max-width:700px){.cgm-page{padding:0 20px}.cgm-page-hero{padding:35px 0 28px}.cgm-project-grid,.cgm-people-grid,.cgm-student-grid{grid-template-columns:1fr}.cgm-project-card,.cgm-director-card,.cgm-person-card{padding:22px}.cgm-page-body{padding-top:20px}}
-@media(prefers-reduced-motion:reduce){.cgm-project-card{transition:none}}
+/* ==========================================================
+   CGM LAB INTERIOR PAGES
+   Page layouts, project panels, people cards, and alumni tables.
+   Shared button styles remain in styles.css.
+   Each property is on its own line for easier editing.
+   ========================================================== */
+
+/* Page foundation: hide Quarto's title and use the custom page layout. */
+body:has(.cgm-page) {
+  background: #fff;
+}
+
+body:has(.cgm-page) #title-block-header {
+  display: none;
+}
+
+body:has(.cgm-page) #quarto-content main.content {
+  grid-column: screen-start / screen-end;
+  width: 100%;
+  max-width: none;
+  margin: 0;
+  padding: 0;
+}
+
+.cgm-page,
+.cgm-page * {
+  box-sizing: border-box;
+}
+
+/* Main content width and side padding on interior pages. */
+.cgm-page {
+  color: #00205B;
+  max-width: 1200px;
+  margin: auto;
+  padding: 0 32px;
+}
+
+.cgm-page h1,
+.cgm-page h2,
+.cgm-page h3,
+.cgm-page h4 {
+  color: #00205B;
+}
+
+.cgm-page h1 {
+  font-size: clamp(2.3rem,5vw,4rem);
+  line-height: 1.08;
+  letter-spacing: -.045em;
+  font-weight: 800;
+  max-width: 1000px;
+  margin: 18px 0 22px;
+}
+
+/* Top title area: padding controls space above/below; border is the green line. */
+.cgm-page-hero {
+  padding: 60px 0 38px;
+  border-bottom: 5px solid #00A346;
+}
+
+/* Small uppercase labels above titles and within cards. */
+.cgm-label {
+  font-size: .72rem;
+  text-transform: uppercase;
+  font-weight: 700;
+  letter-spacing: .09em;
+  color: #007A33;
+}
+
+.cgm-page-lead {
+  font-size: 1.17rem;
+  line-height: 1.6;
+  max-width: 850px;
+}
+
+/* Main page content: vertical padding and paragraph line spacing. */
+.cgm-page-body {
+  padding: 36px 0 50px;
+  line-height: 1.7;
+}
+
+.cgm-page-body>p,
+.cgm-page-body>ul {
+  max-width: 950px;
+}
+
+.cgm-page h2 {
+  font-size: 1.9rem;
+  margin: 40px 0 24px;
+  letter-spacing: -.025em;
+}
+
+.cgm-page h3 {
+  font-size: 1.5rem;
+  border-bottom: 1px solid #B2B4B2;
+  padding-bottom: 12px;
+  margin: 36px 0 22px;
+}
+
+.cgm-page h4 {
+  font-size: 1.23rem;
+  margin-top: 32px;
+  border-left: 4px solid #00A346;
+  padding-left: 14px;
+}
+
+.cgm-page a {
+  color: #005EA6;
+  text-decoration-thickness: 1px;
+  text-underline-offset: 3px;
+  overflow-wrap: anywhere;
+}
+
+.cgm-page a:hover {
+  color: #00205B;
+}
+
+.cgm-page a:focus-visible {
+  outline: 3px solid #005EA6;
+  outline-offset: 4px;
+}
+
+.cgm-page-body li {
+  margin-bottom: 14px;
+}
+
+.cgm-page-body li li {
+  font-size: .94rem;
+}
+
+/* Two-column project, faculty, and student grids. gap controls panel spacing. */
+.cgm-project-grid,
+.cgm-people-grid,
+.cgm-student-grid {
+  display: grid;
+  grid-template-columns: repeat(2,minmax(0,1fr));
+  gap: 24px;
+}
+
+/* Shared panel borders, rounded corners, and inside padding. */
+.cgm-project-card,
+.cgm-director-card,
+.cgm-person-card {
+  border: 1px solid #B2B4B2;
+  border-top: 5px solid #00A346;
+  border-radius: 10px;
+  padding: 26px;
+  min-width: 0;
+}
+
+.cgm-project-card:nth-child(even),
+.cgm-director-card:nth-child(even) {
+  border-top-color: #005EA6;
+}
+
+.cgm-project-card {
+  transition: transform .18s,box-shadow .18s;
+}
+
+.cgm-project-card:hover {
+  transform: translateY(-4px);
+  box-shadow: 0 10px 25px #00205B12;
+}
+
+.cgm-project-card h3,
+.cgm-director-card h3,
+.cgm-person-card h3 {
+  border: 0;
+  padding: 0;
+  margin: 18px 0 14px;
+}
+
+.cgm-project-card h3 a,
+.cgm-director-card h3 a {
+  text-decoration: none;
+  color: #00205B;
+}
+
+.cgm-project-card>p:last-child a {
+  font-weight: 700;
+}
+
+.cgm-avatar {
+  width: 76px;
+  height: 76px;
+  display: grid;
+  place-items: center;
+  background: #007A33;
+  color: #fff;
+  border-radius: 50%;
+  font-size: 1.5rem;
+  font-weight: 700;
+}
+
+.cgm-avatar-blue {
+  background: #00205B;
+}
+
+.cgm-person-card h3 {
+  font-size: 1.2rem;
+  margin-top: 0;
+}
+
+/* Allow wide alumni tables to scroll horizontally on small screens. */
+.cgm-alumni {
+  overflow-x: auto;
+}
+
+.cgm-alumni table {
+  min-width: 760px;
+  width: 100%;
+  border-collapse: collapse;
+  font-size: .85rem;
+}
+
+.cgm-alumni th {
+  background: #00205B;
+  color: white;
+  text-align: left;
+}
+
+.cgm-alumni td,
+.cgm-alumni th {
+  padding: 12px;
+  border-bottom: 1px solid #B2B4B2;
+  vertical-align: top;
+}
+
+/* Navigation links and dividing line at the bottom of interior pages. */
+.cgm-page-footer {
+  border-top: 1px solid #B2B4B2;
+  padding: 25px 0 45px;
+  font-size: .9rem;
+}
+
+.cgm-page-footer a {
+  font-weight: 700;
+}
+
+/* ==========================================================
+   DIRECTOR PHOTOS
+   The photo takes one share and the text four shares: about 20/80.
+   gap separates the photo from the text.
+   For a narrower photo, change 1fr / 4fr to 1fr / 5fr.
+   ========================================================== */
+
+.cgm-director-card {
+  display: grid;
+  grid-template-columns: minmax(0, 1fr) minmax(0, 4fr);
+  gap: 20px;
+  align-items: start;
+}
+
+.cgm-director-photo,
+.cgm-director-copy {
+  min-width: 0;
+}
+
+/* Remove the extra spacing Quarto adds around Markdown images. */
+.cgm-director-photo p,
+.cgm-director-photo figure,
+.cgm-director-photo .quarto-figure {
+  margin: 0;
+}
+
+/* Portrait crop. Change object-position to adjust what is visible.
+   Change aspect-ratio to 1 / 1 for a square photo. */
+.cgm-director-photo img {
+  display: block;
+  width: 100%;
+  height: auto;
+  aspect-ratio: 3 / 4;
+  object-fit: cover;
+  object-position: center 20%;
+  border-radius: 8px;
+}
+
+.cgm-director-photo figcaption {
+  display: none;
+}
+
+.cgm-director-copy h3 {
+  margin-top: 0;
+}
+
+/* Compact buttons leave room for both links beside each other.
+   They wrap naturally if the card becomes too narrow. */
+.cgm-director-copy .cgm-actions {
+  margin-top: 18px;
+}
+
+.cgm-director-copy .cgm-actions,
+.cgm-director-copy .cgm-actions > p {
+  gap: 10px;
+}
+
+.cgm-director-copy a.cgm-button {
+  padding: 10px 12px;
+  font-size: .8rem;
+}
+
+/* Tablet widths: give each director a full row instead of squeezing
+   two cards together. Student and project grids keep their own rules. */
+@media (min-width: 701px) and (max-width: 1000px) {
+  .cgm-people-grid {
+    grid-template-columns: 1fr;
+  }
+
+  .cgm-director-card {
+    grid-template-columns: minmax(90px, 1fr) minmax(0, 4fr);
+  }
+}
+
+/* Smaller-screen layout. Cards stack into one column. */
+@media(max-width:700px) {
+  .cgm-page {
+    padding: 0 20px;
+  }
+
+  .cgm-page-hero {
+    padding: 35px 0 28px;
+  }
+
+  .cgm-project-grid,
+  .cgm-people-grid,
+  .cgm-student-grid {
+    grid-template-columns: 1fr;
+  }
+
+  .cgm-project-card,
+  .cgm-director-card,
+  .cgm-person-card {
+    padding: 22px;
+  }
+
+  .cgm-page-body {
+    padding-top: 20px;
+  }
+
+  /* Place the portrait above the text on phones. */
+  .cgm-director-card {
+    grid-template-columns: 1fr;
+    gap: 18px;
+  }
+
+  .cgm-director-photo {
+    width: 120px;
+  }
+
+}
+
+/* Respect device preferences for reduced motion. */
+@media(prefers-reduced-motion:reduce) {
+  .cgm-project-card {
+    transition: none;
+  }
+
+}
+
