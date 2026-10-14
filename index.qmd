@@ -57,7 +57,7 @@ From observations to understanding
 [Geomorphology]{.cgm-ribbon-item}
 [Data science]{.cgm-ribbon-item}
 [Statistical modeling]{.cgm-ribbon-item}
-[Spatial analysis]{.cgm-ribbon-item}
+[Geospatial analysis]{.cgm-ribbon-item}
 [Field research]{.cgm-ribbon-item}
 :::
 
