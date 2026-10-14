@@ -21,8 +21,8 @@ Computational Geomorphology and Modeling Lab
 ::: {.cgm-hero-copy}
 
 # Landscapes.\
-Data.\
-[Discovery.]{.cgm-discovery}
+# Data.\
+# [Discovery.]{.cgm-discovery}
 
 ::: {.cgm-lead}
 Geomorphology and data science, brought together to investigate environmental processes and change.
